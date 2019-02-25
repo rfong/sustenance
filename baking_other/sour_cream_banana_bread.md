@@ -9,10 +9,12 @@ Delayed gratification caveat: is best after an overnight in the fridge.
 
 # ingredients
 
+Dry:
 + 1-1/2 cups flour
 + 1 tsp baking soda
 + 1/2 tsp salt
 
+Wet:
 + 2 eggs
 + 3/4 cup brown sugar
 + 1 tsp vanilla
