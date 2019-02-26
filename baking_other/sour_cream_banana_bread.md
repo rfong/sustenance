@@ -1,13 +1,13 @@
 sour cream banana bread
 -----
 
-# manifesto
+### Manifesto
 
 Optimizes for: light, spongy, fluffy, non-greasy, not too sweet. More like a breakfast bread than a dessert/cake, as traditional banana breads often are. This is a life staple I made up in college. Great for roadtrips, camping, and breakfast.
 
 Delayed gratification caveat: requires an overnight in the fridge.
 
-# ingredients
+### Ingredients
 
 Dry:
 + 1-1/2 cups flour
@@ -23,7 +23,7 @@ Wet:
 + 3/4 cup sour cream
 + 3 to 4 squishy bananas
 
-# methodology
+### Methodology
 
 + Mix the dry ingredients.
 + Mix the wet ingredients in a separate bowl.

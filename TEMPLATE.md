@@ -1,11 +1,11 @@
-# manifesto
+### Manifesto
 
 what does this optimize over?
 
-# flavor text
+### Flavor text
 
-# ingredients
+### Ingredients
 
-# methodology
+### Methodology
 
-# future work
+### Future work
