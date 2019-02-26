@@ -25,7 +25,9 @@ Wet:
 
 # methodology
 
-Mix the dry ingredients. Mix the wet ingredients in a separate bowl. Mix the wet ingredients thoroughly into the dry ones. A whisk helps.
++ Mix the dry ingredients.
++ Mix the wet ingredients in a separate bowl.
++ Mix the wet ingredients thoroughly into the dry ones. A whisk helps.
 
 Bake for 350F for 50-60 minutes (or until a toothpick comes out clean).
 
