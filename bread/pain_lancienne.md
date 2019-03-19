@@ -1,5 +1,4 @@
-pain l'ancienne (delayed fermentation bread)
------
+# pain l'ancienne (delayed fermentation bread)
 
 Lazily adapted from Peter Reinhardt's *The Bread Baker's Apprentice*.
 
@@ -12,7 +11,7 @@ Gratification | Minimum delay
 Thinking about bread --> having bread in your mouth | 2-3 days
 Taking dough out of fridge --> having bread in your mouth | 3-4 hours
 
-## SCHEDULING
+### Scheduling
 
 The dough is mixed ~3 days before you bake it. The shaping, rise, and baking happen on the same day. You don't need to babysit the dough at all, so this is a really easy bread for busy people. I found it easy to regularly make it multiple times a week at MIT and while employed full-time.
 
@@ -22,13 +21,13 @@ The dough is mixed ~3 days before you bake it. The shaping, rise, and baking hap
 - (Break for 2-6 hours, flexible, dependent on room temperature)
 - Bake. (~30 min babysitting)
 
-## Explanation
+### Explanation
 
 tl;dr is that this method increases breakdown of complex carbohydrates while keeping yeast inactive longer, increasing eventual availability of sugars for the Maillard reaction (enzymatic browning).
 
 I've written [a detailed visual presentation here](https://docs.google.com/presentation/d/1rHwvIju0Y6v59li60ozArehN2Ak4jTAfD6dlT3CjaIU/edit?usp=sharing) about the science of delayed-fermentation bread.
 
-# Ingredients
+## Ingredients
 
 **Note about temperature**: Reinhardt recommends ice cold (40F) water and getting the dough immediately into the fridge with minimal heat transfer. I found that when I aggressively prioritized this, bread flavor was wondrously maximized (95th percentile) at cost of suboptimal (20th percentile) crumb texture, possibly due to the lack of dough malleability. This may be mitigated if you use an electric mixer; I go by hand.
 
@@ -46,9 +45,9 @@ I usually just use cold tap water and it's fine.
 + 1 tsp instant yeast
 + 1-1/8 cups cold water
 
-# Methodology
+## Methodology
 
-## Dough setup
+### Dough setup
 
 **Total time**: 5-10 min
 
@@ -67,7 +66,7 @@ Cover with plastic wrap and refrigerate for 2-5 days. I prefer 3-4 days.
   + The flavor is just starting to become bready at 2 days.
   + After 5 days, it might overferment and start to have a weird consistency. Additionally, if your plastic wrap is not airtight, the dough tends to dry around the edges.
 
-## Proofing
+### Proofing
 
 **Total time**: 2.5-6 hours (**Active time**: 5 min)
 
@@ -75,7 +74,7 @@ On the day you want to make the bread, take it out of the fridge and let it rise
 
 If it's particularly cold in your house, this may take 6 hours. At a comfortable room temperature, I find this takes around 2-4 hours.
 
-## Baking
+### Baking
 
 **Total time**: 30 min (**Active time**: 5 min)
 
@@ -103,13 +102,13 @@ Prep two sheet pans with baking parchment or spray oil. Transfer the dough to th
 + Bake until the crust is a rich and delectable looking golden brown. This will take 10-15 more minutes.
 + Remove from oven and let cool for ~10 minutes.
 
-## Serve
+### Serve
 
 I like to mix a plate of olive oil, salt, pepper, and a dash of balsamic vinegar.
 
 Will feed 4-5 ravenous bread-fiends, or 10+ casual bread nibblers.
 
-# Future work
+## Future work
 
 - [ ] Do side by side tests of multiple water temps and actually check with thermometer
 - [x] [Test aggressively icing water](http://rfeat.tumblr.com/post/157520466846)
