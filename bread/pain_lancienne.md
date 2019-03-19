@@ -1,7 +1,7 @@
 pain l'ancienne (delayed fermentation bread)
 -----
 
-# Overview
+Lazily adapted from Peter Reinhardt's *The Bread Baker's Apprentice*.
 
 **Optimizes for** active time, prep time, and ease. Highly bready but not sour.
 
@@ -12,13 +12,6 @@ Gratification | Minimum delay
 Thinking about bread --> having bread in your mouth | 2-3 days
 Taking dough out of fridge --> having bread in your mouth | 3-4 hours
 
-**Effort**
-+ 5 min initial mixing
-+ 5 min shaping before rise
-  + (2-6 hour rise, dependent on room temperature)
-+ 5 min work before baking
-  + (30 min bake+cool time)
-
 ## SCHEDULING
 
 The dough is mixed ~3 days before you bake it. The shaping, rise, and baking happen on the same day. You don't need to babysit the dough at all, so this is a really easy bread for busy people. I found it easy to regularly make it multiple times a week at MIT and while employed full-time.
@@ -26,7 +19,7 @@ The dough is mixed ~3 days before you bake it. The shaping, rise, and baking hap
 **Example schedule**
 - Thursday (5-10 min): Mix dough and immediately refrigerate.
 - Sunday (5 min): Shape dough and leave out at room temperature.
-- (Break for 2-6 hours, flexible)
+- (Break for 2-6 hours, flexible, dependent on room temperature)
 - Bake. (~30 min babysitting)
 
 ## Explanation
@@ -34,9 +27,6 @@ The dough is mixed ~3 days before you bake it. The shaping, rise, and baking hap
 tl;dr is that this method increases breakdown of complex carbohydrates while keeping yeast inactive longer, increasing eventual availability of sugars for the Maillard reaction (enzymatic browning).
 
 I've written [a detailed visual presentation here](https://docs.google.com/presentation/d/1rHwvIju0Y6v59li60ozArehN2Ak4jTAfD6dlT3CjaIU/edit?usp=sharing) about the science of delayed-fermentation bread.
-
-## Sources
-Lazily adapted from Peter Reinhardt's *The Bread Baker's Apprentice*.
 
 # Ingredients
 
