@@ -19,6 +19,16 @@ Taking dough out of fridge --> having bread in your mouth | 3-4 hours
 + 5 min work before baking
   + (30 min bake+cool time)
 
+## SCHEDULING
+
+The dough is mixed ~3 days before you bake it. The shaping, rise, and baking happen on the same day. You don't need to babysit the dough at all, so this is a really easy bread for busy people. I found it easy to regularly make it multiple times a week at MIT and while employed full-time.
+
+**Example schedule**
+- Thursday (5-10 min): Mix dough and immediately refrigerate.
+- Sunday (5 min): Shape dough and leave out at room temperature.
+- (Break for 2-6 hours, flexible)
+- Bake. (~30 min babysitting)
+
 ## Explanation
 
 tl;dr is that this method increases breakdown of complex carbohydrates while keeping yeast inactive longer, increasing eventual availability of sugars for the Maillard reaction (enzymatic browning).
