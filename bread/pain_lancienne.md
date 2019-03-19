@@ -1,6 +1,6 @@
 # pain l'ancienne (delayed fermentation bread)
 
-Lazily adapted from Peter Reinhardt's *The Bread Baker's Apprentice*.
+Adapted from Peter Reinhardt's *The Bread Baker's Apprentice*.
 
 **Optimizes for** active time, prep time, and ease. Highly bready but not sour.
 
@@ -53,7 +53,7 @@ This recipe is extremely simple and mindless to execute once you've done it a co
 **1. Mix the dry ingredients thoroughly in a large bowl. Mix in the water quickly until fully incorporated.**
 
 + Desired dough consistency: still a bit sticky, but easily releases from the sides of the bowl and from your hands. At the perfect consistency, the dough will basically clean the bowl for you.
-+ Spend no more time mixing the dough than necessary; your goal is for it to stay cold and not absorb too much heat from your hands or the room temperature.
++ Spend no more time mixing the dough than necessary; your goal is for it to stay cold and not absorb too much heat from your hands or the room temperature, so that the yeast does not activate.
 + I use a fork at first to avoid heat transfer, then switch to hands when the dough has become a large and unwieldy mass.
 + The dough will rise a bit more than double, so pick a bowl 2-3x deeper than your start ingredients take up.
 
@@ -71,6 +71,8 @@ This recipe is extremely simple and mindless to execute once you've done it a co
 **Refrigerate for 2-5 days. I like 3 days best.**
   + The flavor is just starting to become bready at 2 days.
   + After 5 days, it might over-ferment and start to have a weird consistency. Additionally, if your plastic wrap is not airtight, the dough tends to dry around the edges.
+  
+*During this stage, the amylase naturally present in flour is breaking down the complex carbohydrates, increasing availability of sugars which will later contribute to enzymatic browning (Maillard reaction) and ✨bready flavor✨. This happens in any bread dough; the difference is that we are keeping the yeast inactive by maintaining cold dough temperatures, leaving amylase with a multi-day headstart to produce ✨unreal bready flavor✨ before the yeast can start to consume produced sugars.*
   
 ### Proof (2-4 hours)
 
