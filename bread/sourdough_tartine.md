@@ -21,7 +21,7 @@ Not too sour, tender and holey crumb but not too holey, crunchy crust.
 ## EQUIPMENT
 - 500F oven
 - Mixing bowls
-- Cotton towels to line bowls for proofing
+- Cotton towels to line bowls for proofing (flour sack towels work well)
 - Plastic wrap or other covering for the bowls
 - Pastry scraper (if you have it)
 - Dutch ovens or large heavy-bottomed pots with lids
@@ -115,7 +115,7 @@ FLOAT TEST FOR LEAVEN: Drop a small sacrificial bit of the leaven in a cup of wa
 
 1. COOLING: When done, lift the loaves out of the pots using a utensil. Transfer them to wire racks to cool completely, at least 10 minutes. Do not attempt to artificially accelerate the cooling -- the loaves are still cooking on the inside, and this is part of the process.
 
-## RECIPE NOTES
+## PROCESS NOTES
 - Whole-wheat sourdough: You can replace up to half of the all-purpose flour with whole-wheat or whole-grain flour.
 
 - All-purpose vs. bread flour: Bread flour will give your bread a sturdier, chewier texture and a loaf that's easier to slice. Loaves made with all-purpose flour will be a bit more delicate, especially when you cut them, but still work just fine.
@@ -123,3 +123,5 @@ FLOAT TEST FOR LEAVEN: Drop a small sacrificial bit of the leaven in a cup of wa
 - If your loaf sticks to the proofing basket and tears: Fold a pinch of dough over the tear and bake as usual.
 
 - Storage: Bread can be stored at room temperature (cut-side down if cut) in a paper bag for up to 3 days well wrapped in plastic wrap and frozen for up to 2 months.
+
+- Cleaning your proofing towel [[MetaFilter](https://ask.metafilter.com/55323/how-to-wash-out-flour)]: beat the towel out and/or vacuum it while dry. Soak in warm water for a while.
