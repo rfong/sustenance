@@ -50,7 +50,7 @@ The morning you plan to make the dough, place all the leaven ingredients in a la
 ### DOUGH
 
 **Ingredients**
-- 500 grams water, divided (50g of the water will be used to dissolve your salt in)
+- 500 grams water, divided (a small amount of water will be set aside to dissolve your salt in)
 - 1 tablespoon sea salt
 - 700 grams bread flour (5 1/2 cups)
 
@@ -65,7 +65,7 @@ The morning you plan to make the dough, place all the leaven ingredients in a la
 
 *Folding is used for gluten formation in place of kneading. This will give you a more holey crumb.*
 
-1. Fully dissolve the salt in the remaining 50 grams of water.
+1. Fully dissolve the salt in the remaining 50 grams of water. (50 isn't a particularly specific number, as long as it's any small amount that you accurately subtracted out of the total hydration amount. It's just easier to pick a number in advance than to keep track of a cup of set-aside water for 4 hours.)
 
 1. (~10 minutes) Pour the dissolved salt over the dough. Work into the dough until fully incorporated. The dough should feel shaggy, a bit loose, and stick to your hands some. It will gradually end up building more tension throughout the bulk rise step. If too dry (not fully incorporated, inelastic, or too dry to stick to hands) or too wet (so floppy/wet that it does not stick to hands), adjust as needed and document adjustments for next time.
 
