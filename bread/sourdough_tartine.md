@@ -6,8 +6,6 @@ Assumes you already have a sourdough starter.
 ## MAKES
 2 boules (round loaves).
 
-Not too sour, tender and holey crumb but not too holey, crunchy crust.
-
 ## EQUIPMENT
 - Oven capable of 500F
 - Mixing bowls
@@ -16,6 +14,7 @@ Not too sour, tender and holey crumb but not too holey, crunchy crust.
 - Dutch ovens or large heavy-bottomed pots with lids
 - Pastry scraper
 - Serrated bread knife
+- Kitchen gram scale
  
 ## SCHEDULING
 You must make the leaven, autolyse, bulk rise, middle rise, and shape on the same day. If you have ~5 hours left in your day, you can proof and bake; otherwise proof overnight and wait to bake the next day.
