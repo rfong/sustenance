@@ -41,6 +41,9 @@ I've written [a detailed visual presentation here](https://docs.google.com/prese
 + 1 tsp instant yeast
 + 1 cup cold water, plus more if needed
 
+**Flour types**
+All-purpose flour is fine if that's all you have on hand; the bread will just be more dense than if you used bread flour.
+
 **Note about temperature**: Reinhardt recommends ice cold (40F) water and getting the dough immediately into the fridge with minimal heat transfer. I found that when I aggressively prioritized this, bread flavor was wondrously maximized (95th percentile) at cost of suboptimal (20th percentile) crumb texture, possibly due to the lack of dough malleability. This may be mitigated if you use an electric mixer; I go by hand.
 
 I usually just use cold tap water and it's fine.
