@@ -18,7 +18,7 @@ Makes 6 pancakes.
 
 ### Paste for dough
 - 1/2 cup all-purpose flour
-- 3 Tbsp sesame oil
+- 1/4 cup sesame oil
 - 1 tsp coarse salt
 - (optional) 1/2 to 1 tsp ground Sichuan peppercorns
 
