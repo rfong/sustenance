@@ -2,6 +2,8 @@ acute sore throat
 -----
 researched this during crippling bout of tonsillitis
 
+[longer gist on tonsillitis complications & when to seek medical intervention](https://gist.github.com/rfong/2aaf07f674bb2ec124dcb23af9f26008)
+
 ### to do frequently
 1. warm salt water gargle (studies mostly demonstrate efficacy of plain water gargles, but a little osmosis doesn’t hurt)
 2. honey shots [[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3609166/)][[2](https://www.ncbi.nlm.nih.gov/pubmed/26050853)] (+ can add honey in everything to follow to make it more palatable)
