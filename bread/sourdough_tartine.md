@@ -6,7 +6,7 @@ Assumes you already have a sourdough starter.
 ### Adjusting the whole-wheat-to-white flour ratio
 https://www.abreaducation.com/content/baking-bread-with-whole-wheat-flour.
 
-Adjust the hydration percentage up 1% to go to 75% WW, or down 1% to go to 25% WW. When in doubt, round down your water; it is easier to adjust a dough that is too dry than a dough that is too wet.
+Adjust the hydration percentage down 1% to go to 25% WW. When in doubt, round down your water; it is easier to adjust a dough that is too dry than a dough that is too wet.
 
 ## MAKES
 2 boules (round loaves).
@@ -16,7 +16,7 @@ Adjust the hydration percentage up 1% to go to 75% WW, or down 1% to go to 25% W
 - Mixing bowls
 - Cotton towels to line bowls for proofing (flour sack towels work well)
 - Plastic wrap or other moisture-proof covering for the bowls
-- Dutch ovens or large heavy-bottomed pots with lids
+- Dutch ovens (or large, oven-safe, heavy-bottomed pots with lids)
 - Pastry scraper
 - Serrated bread knife
 - Kitchen gram scale
@@ -118,7 +118,6 @@ The morning you plan to make the dough, place all the leaven ingredients in a la
 1. COOLING: When done, carefully lift the loaves out of the pots using a utensil. Transfer them to wire racks to cool completely, at least 10 minutes. Do not attempt to artificially accelerate the cooling -- the loaves are still cooking on the inside, and this is part of the process.
 
 ## PROCESS NOTES
-- Whole-wheat sourdough: You can replace up to half of the all-purpose flour with whole-wheat or whole-grain flour.
 
 - All-purpose vs. bread flour: Bread flour will give your bread a sturdier, chewier texture and a loaf that's easier to slice. Loaves made with all-purpose flour will be a bit more delicate, especially when you cut them, but still work just fine.
 
@@ -126,4 +125,4 @@ The morning you plan to make the dough, place all the leaven ingredients in a la
 
 - Storage: Bread can be stored at room temperature (cut-side down if cut) in a paper bag for up to 3 days well wrapped in plastic wrap and frozen for up to 2 months.
 
-- Cleaning your proofing towel [[MetaFilter](https://ask.metafilter.com/55323/how-to-wash-out-flour)]: beat the towel out and/or vacuum it while dry. Soak in warm water for an hour or so, then scrub with a bristle brush. I use a tawashi brush.
+- Cleaning your proofing towel [[MetaFilter](https://ask.metafilter.com/55323/how-to-wash-out-flour)]: Soak in warm water for an hour or so, then scrub with a bristle brush. I use a tawashi brush. If there is a lot of excess flour, beat the towel out and/or vacuum it while it is still dry. 
