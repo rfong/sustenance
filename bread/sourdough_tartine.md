@@ -1,7 +1,12 @@
 # Sourdough
-Based on mmou's adaptation of https://www.thekitchn.com/how-to-make-sourdough-bread-224367, which is based on Chad Robertson's Tartine Bread recipe.
+Based on mmou's 50/50 (half whole-wheat, half white) adaptation of https://www.thekitchn.com/how-to-make-sourdough-bread-224367, which is based on Chad Robertson's Tartine Bread recipe.
 
 Assumes you already have a sourdough starter.
+
+### Adjusting the whole-wheat-to-white flour ratio
+https://www.abreaducation.com/content/baking-bread-with-whole-wheat-flour.
+
+Adjust the hydration percentage up 1% to go to 75% WW, or down 1% to go to 25% WW. When in doubt, round down your water; it is easier to adjust a dough that is too dry than a dough that is too wet.
 
 ## MAKES
 2 boules (round loaves).
@@ -39,7 +44,7 @@ It's convenient to maintain a small starter. I just leave the scrapings in my ja
 
 **Ingredients**
 - 1 heaping tablespoon active sourdough starter
-- 75 grams bread flour
+- 75 grams 50/50 bread flour
 - 75 grams water
 
 The morning you plan to make the dough, place all the leaven ingredients in a large bowl and mix thoroughly. Cover and let stand at room temperature. Float test every hour. (For me, it tends to be ready after 3 hours.)
@@ -51,7 +56,7 @@ The morning you plan to make the dough, place all the leaven ingredients in a la
 **Ingredients**
 - 500 grams water, divided (a small amount of water will be set aside to dissolve your salt in)
 - 1 tablespoon sea salt
-- 700 grams bread flour (5 1/2 cups)
+- 700 grams 50/50 bread flour (5 1/2 cups)
 
 #### AUTOLYSE (1-4 hrs)
 *During this stage, the flour is fully absorbing the water and enzymes in the flour begin breaking down the starches and proteins.*
