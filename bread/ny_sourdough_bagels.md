@@ -1,6 +1,11 @@
-# NY-style sourdough bagels
+# New-York-style sourdough bagels
 
-Adapted from [Peter Reinhardt's recipe](http://honestcooking.com/peter-reinharts-new-york-style-bagels-wild-sourdough/). (Disclaimer: I am not from NY)
+Adapted from [New York style sourdough bagels - Peter Reinhart | Honest Cooking](http://honestcooking.com/peter-reinharts-new-york-style-bagels-wild-sourdough/), with some information from the bagel section in [The Bread Baker's Apprentice](https://www.amazon.com/Bread-Bakers-Apprentice-15th-Anniversary/dp/1607748657/), also by Peter Reinhart. (Disclaimer: I am not from NY and don't have an authentic NY bagel memory to compare these against.)
+
+Main differences:
+- Moved the shaping step to after the cold fermentation, because I don't have room in my fridge for a whole tray of bagels.
+- Increased hydration ratio a couple percent.
+- Reduced boiling time from 60s to 20s per side. They got too tough for me.
 
 ### Scheduling
 
@@ -15,14 +20,16 @@ Start thinking about bagels 3 days before you want to eat them.
 
 ### Full recipe
 
+Note: Use high-gluten (14%) flour if possible to find. Otherwise, bread flour (12%) is ok.
+
 #### Sponge
-- 500 g (4 cups) bread flour
+- 500 g (4 cups) high-gluten flour
 - 500 mL (2 cups) non-chlorinated water
 - ripe 100% hydration wheat sourdough starter
 
 #### Dough
 - sourdough sponge (above)
-- 350 g bread flour to start (up to 500 g)
+- 350 g high-gluten flour to start (up to 500 g)
 - 2 tsp barley malt, or 1 Tbsp malt barley syrup
 - 1 Tbsp salt
 - 1 tsp dry yeast
@@ -30,13 +37,13 @@ Start thinking about bagels 3 days before you want to eat them.
 ### Halved recipe
 
 #### Sponge
-- 250 g bread flour
+- 250 g high-gluten flour
 - 250 mL non-chlorinated water
 - ripe 100% hydration wheat sourdough starter
 
 #### Dough
 - sourdough sponge (above)
-- 175 g bread flour to start (up to 250 g)
+- 175 g high-gluten flour to start (up to 250 g)
 - 1 tsp barley malt, or 1-1/2 tsp malt barley syrup
 - 1-1/2 tsp salt
 - 1/2 tsp dry yeast
@@ -55,11 +62,11 @@ Knead the dough until smooth and elastic. Your goal is dough that is tough and n
 
 Continue kneading the dough 10 minutes by hook or 15 minutes by hand until fully smooth and elastic.
 
-Refrigerate overnight or up to 36 hours.
+Cover and refrigerate at least overnight, preferably as much as 36 hours.
 
 ### Proof & shape
 
-Divide the dough into 4oz (110g) pieces. Shape the pieces into rolls on a clean surface. Cover with damp towel and let them rest 20 minutes.
+Divide the dough into 4oz (110g) pieces. Shape the pieces into rolls on a *clean surface*. Cover with damp towel and let them rest 20 minutes.
 
 Roll out each roll so you can wrap it around your fingers with the ends overlapped. Roll the overlap back and forth until fused into a bagel shape. Cover and let them rise another 20 minutes. Make sure you give them extra space, as they will get bigger.
 
@@ -69,16 +76,23 @@ Float test. If a bagel doesn't float, wait another 20 minutes.
 
 Preheat oven to 500F. Line a baking sheet with parchment.
 
-Bring a wide pot or deep saucepan of water to a rolling boil. You can add 1 Tbsp baking soda to the pot to icnrease boiling. Leave heat on high to ensure rapid boil. In the meantime, get out your bagel toppings.
+Bring a wide pot or deep saucepan of water, plus 1 Tbsp baking soda, to a rolling boil. Leave heat on high to ensure rapid boil. In the meantime, get out your bagel toppings.
 
-Carefully lower bagels 3-4 at a time into the boiling pot with a spatula or slotted spoon. Let them boil 20 seconds on each side.
+Carefully lower bagels 3-4 at a time into the boiling pot with a spatula or slotted spoon. Let them boil 20-60 seconds on each side, depending how tough and dense you like your bagels.
 
 Move bagels to baking sheet. You can optionally brush them with a beaten egg for extra browning. Sprinkle bagels with toppings now, as this is when they are the stickiest.
 
-Bake for 20-25 minutes or until evenly browned. Rotate the sheet 10 minutes in.
+Bake for a total of 20-25 minutes or until a light golden-brown. 10 minutes in, rotate the sheet and lower the temperature to 450F.
 
 Let cool on rack.
+
+## Appendix
 
 ### Storage
 
 Bagels can be frozen after the fridge step, or after they are fully baked and cooled. If you use frozen dough, thaw for 1 hour prior to boiling.
+
+### Toppings
+- shredded parmesan
+- roughly chopped garlic
+- everything bagel seasoning
