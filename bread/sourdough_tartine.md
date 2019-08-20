@@ -26,7 +26,7 @@ You must make the leaven, autolyse, bulk rise, middle rise, and shape on the sam
 
 **Example schedule** (labeled "babysitting" if I can't leave the house for more than an hour):
 - Thurs, Fri (flexible): Feed starter every AM and PM.
-- Sat AM (2-4 hrs babysitting): Make leaven, mix dough.
+- Sat AM (2-4 hrs): Make leaven, mix dough. Babysitting the first few times until you figure out how long leaven takes in your kitchen.
 - Sat (flexible): Autolyse. Rest 30min to 4 hrs.
 - Sat PM (4.5 hrs babysitting): Bulk rise, middle cycle, shaping.
 - Proof overnight in fridge.
