@@ -5,7 +5,6 @@ Adapted from [New York style sourdough bagels - Peter Reinhart | Honest Cooking]
 Main differences:
 - Moved the shaping step to after the cold fermentation, because I don't have room in my fridge for a whole tray of bagels.
 - Increased hydration ratio a couple percent.
-- Reduced boiling time from 60s to 20s per side. They got too tough for me.
 
 ### Scheduling
 
@@ -66,7 +65,7 @@ Cover and refrigerate at least overnight, preferably as much as 36 hours.
 
 ### Proof & shape
 
-Divide the dough into 4oz (110g) pieces. Shape the pieces into rolls on a *clean surface*. Cover with damp towel and let them rest 20 minutes.
+Divide the dough into 4oz (110g) pieces. (The size is important for the final texture. If you want to make smaller, 80g bagels, you will have to reduce boiling time.) Shape the pieces into rolls on a *clean surface*. Cover with damp towel and let them rest 20 minutes.
 
 Roll out each roll so you can wrap it around your fingers with the ends overlapped. Roll the overlap back and forth until fused into a bagel shape. Cover and let them rise another 20 minutes. Make sure you give them extra space, as they will get bigger.
 
@@ -78,7 +77,7 @@ Preheat oven to 500F. Line a baking sheet with parchment.
 
 Bring a wide pot or deep saucepan of water, plus 1 Tbsp baking soda, to a rolling boil. Leave heat on high to ensure rapid boil. In the meantime, get out your bagel toppings.
 
-Carefully lower bagels 3-4 at a time into the boiling pot with a spatula or slotted spoon. Let them boil 20-60 seconds on each side, depending how tough and dense you like your bagels.
+Carefully lower bagels 3-4 at a time into the boiling pot with a spatula or slotted spoon. Let them boil 60 seconds on each side.
 
 Move bagels to baking sheet. You can optionally brush them with a beaten egg for extra browning. Sprinkle bagels with toppings now, as this is when they are the stickiest.
 
