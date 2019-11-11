@@ -17,7 +17,7 @@ Start thinking about bagels 3 days before you want to eat them.
 
 ## Ingredients
 
-| **Ingredient**      | **Full recipe** | **Halved recipe** |
+| **Ingredient** | **Full recipe** (makes 12) | **Halved recipe** (makes 6) |
 | ----------- | ----------- | ----------- |
 | *Sponge* | | |
 | ripe 100% hydration wheat sourdough starter | | |
