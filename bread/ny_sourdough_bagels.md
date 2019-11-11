@@ -17,35 +17,20 @@ Start thinking about bagels 3 days before you want to eat them.
 
 ## Ingredients
 
-### Full recipe
+| **Ingredient**      | **Full recipe** | **Halved recipe** |
+| ----------- | ----------- | ----------- |
+| *Sponge* | | |
+| ripe 100% hydration wheat sourdough starter | | |
+| high-gluten flour | 500 g (4 cups) | 250 g (2 cups) |
+| non-chlorinated water | 500 mL (2 cups) | 250 mL (1 cup) |
+| *Dough* | | |
+| sourdough sponge (above) | | |
+| high-gluten flour | 350 g to start, up to 500 g | 175 g to start, up to 250 g |
+| barley malt | 2 tsp | 1 tsp |
+| salt | 1 Tbsp | 1-1/2 tsp |
+| dry yeast | 1 tsp | 1/2 tsp |
 
-Note: Use high-gluten (14%) flour if possible to find. Otherwise, bread flour (12%) is ok.
-
-#### Sponge
-- 500 g (4 cups) high-gluten flour
-- 500 mL (2 cups) non-chlorinated water
-- ripe 100% hydration wheat sourdough starter
-
-#### Dough
-- sourdough sponge (above)
-- 350 g high-gluten flour to start (up to 500 g)
-- 2 tsp barley malt, or 1 Tbsp malt barley syrup
-- 1 Tbsp salt
-- 1 tsp dry yeast
-
-### Halved recipe
-
-#### Sponge
-- 250 g high-gluten flour
-- 250 mL non-chlorinated water
-- ripe 100% hydration wheat sourdough starter
-
-#### Dough
-- sourdough sponge (above)
-- 175 g high-gluten flour to start (up to 250 g)
-- 1 tsp barley malt, or 1-1/2 tsp malt barley syrup
-- 1-1/2 tsp salt
-- 1/2 tsp dry yeast
+Use high-gluten (14%) flour if possible to find. Otherwise, bread flour (12%) is ok.
 
 ## Instructions
 
