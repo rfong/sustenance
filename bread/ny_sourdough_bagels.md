@@ -8,12 +8,12 @@ Main differences:
 
 ### Scheduling
 
-Start thinking about bagels 3 days before you want to eat them.
+Start thinking about bagels 48 hours before you want to eat them (or more if your starter has been inactive for a while). Bagels are really easy to work into a busy schedule.
 
-- Starter: feed AM/PM, a day before making sponge
-- Sponge: morning before
-- Dough: night before
-- Bagels: 12-36 hours later
+- T-2 days: Feed starter
+- T-1 AM: Mix sponge in morning (10m)
+- T-1 PM: Mix dough at night (15m)
+- T+0 Baking day: Boil & bake in the evening (1-2hr)
 
 ## Ingredients
 
