@@ -1,6 +1,6 @@
 # New-York-style sourdough bagels
 
-Adapted from [New York style sourdough bagels - Peter Reinhart | Honest Cooking](http://honestcooking.com/peter-reinharts-new-york-style-bagels-wild-sourdough/), with some information from the bagel section in [The Bread Baker's Apprentice](https://www.amazon.com/Bread-Bakers-Apprentice-15th-Anniversary/dp/1607748657/), also by Peter Reinhart. (Disclaimer: I am not from NY and don't have an authentic NY bagel memory to compare these against.)
+Adapted from [New York style sourdough bagels - Peter Reinhart | Honest Cooking](http://honestcooking.com/peter-reinharts-new-york-style-bagels-wild-sourdough/), with some information from the bagel section in [The Bread Baker's Apprentice](https://www.amazon.com/Bread-Bakers-Apprentice-15th-Anniversary/dp/1607748657/), also by Peter Reinhart. (Disclaimer: I am not from NY, but I've been calibrating these bagels on people who grew up in NY.)
 
 Main differences:
 - Moved the shaping step to after the cold fermentation, because I don't have room in my fridge for a whole tray of bagels.
@@ -30,7 +30,11 @@ Start thinking about bagels 3 days before you want to eat them.
 | salt | 1 Tbsp | 1-1/2 tsp |
 | dry yeast | 1 tsp | 1/2 tsp |
 
-Use high-gluten (14%) flour if possible to find. Otherwise, bread flour (12%) is ok.
+Use high-gluten (14%) flour if possible to find. Otherwise, normal 12% gluten bread flour is ok.
+
+### White:wheat ratio
+
+I've been mostly using all white bread flour, sometimes subbing 1/8 of it with whole wheat.
 
 ## Instructions
 
@@ -50,23 +54,29 @@ Cover and refrigerate at least overnight, preferably as much as 36 hours.
 
 ### Proof & shape
 
-Divide the dough into 4oz (110g) pieces. (The size is important for the final texture. If you want to make smaller, 80g bagels, you will have to reduce boiling time.) Shape the pieces into rolls on a *clean surface*. Cover with damp towel and let them rest 20 minutes.
+Divide the dough into 12 pieces (or 6 for the half-recipe). Should average 115-120g. (The size has a finicky result on the final texture; see note below.)
+
+Shape the pieces into rolls on a *clean surface*. Cover with damp towel and let them rest 20 minutes.
 
 Roll out each roll so you can wrap it around your fingers with the ends overlapped. Roll the overlap back and forth until fused into a bagel shape. Cover and let them rise another 20 minutes. Make sure you give them extra space, as they will get bigger.
 
-Float test. If a bagel doesn't float, wait another 20 minutes.
+Float test. If a bagel doesn't float, gently dry it off and wait another 20 minutes.
+
+#### Note on sizing
+
+I've been making bagels that average 115-120g by pre-boiling dough weight. All my numbers here are calibrated to that size. If you change by as much as 10-15%, you will experience a qualitatively noticeable difference in softness, poofiness, necessary boiling time, and necessary baking time, and may need to recalibrate to find out what works for you.
 
 ### Boil & bake
 
 Preheat oven to 500F. Line a baking sheet with parchment.
 
-Bring a wide pot or deep saucepan of water, plus 1 Tbsp baking soda, to a rolling boil. Leave heat on high to ensure rapid boil. In the meantime, get out your bagel toppings.
+Bring a wide pot or deep saucepan of water, plus 1 Tbsp baking soda, to a rolling boil. Leave heat on high to ensure rapid boil. In the meantime, prep your bagel toppings.
 
-Carefully lower bagels 3-4 at a time into the boiling pot with a spatula or slotted spoon. Let them boil 60 seconds on each side.
+When water is at a rolling boil, carefully lower bagels (as many at a time as fit comfortably) in with a spatula or slotted spoon. Let them boil 60-90 seconds on each side.
 
-Move bagels to baking sheet. You can optionally brush them with a beaten egg for extra browning. Sprinkle bagels with toppings now, as this is when they are the stickiest.
+Move bagels to baking sheet. Sprinkle bagels with toppings immediately, as this is when they are the stickiest.
 
-Bake for a total of 20-25 minutes or until a light golden-brown. 10 minutes in, rotate the sheet and lower the temperature to 450F.
+Bake for a total of 20 minutes or until a light golden-brown. Midway through, rotate the sheet and lower the temperature to 475F.
 
 Let cool on rack.
 
