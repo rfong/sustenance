@@ -68,15 +68,15 @@ I've been making bagels that average 115-120g by pre-boiling dough weight. All m
 
 ### Boil & bake
 
-Preheat oven to 500F. Line a baking sheet with parchment.
+Preheat oven to 500F.
 
 Bring a wide pot or deep saucepan of water, plus 1 Tbsp baking soda, to a rolling boil. Leave heat on high to ensure rapid boil. In the meantime, prep your bagel toppings.
 
 When water is at a rolling boil, carefully lower bagels (as many at a time as fit comfortably) in with a spatula or slotted spoon. Let them boil 60-90 seconds on each side.
 
-Move bagels to baking sheet. Sprinkle bagels with toppings immediately, as this is when they are the stickiest.
+Move bagels to a parchment-lined baking sheet. (I do 6 bagels to a sheet; if you overcrowd, the heat distribution may result in less crust browning.) Sprinkle bagels with toppings immediately, as this is when they are the stickiest.
 
-Bake for a total of 20 minutes or until a light golden-brown. Midway through, rotate the sheet and lower the temperature to 475F.
+Lower the oven to 475F. Bake for a total of 20 minutes or until a light golden-brown. Midway through, rotate the pan.
 
 Let cool on rack.
 
@@ -90,3 +90,4 @@ Bagels can be frozen after the fridge step, or after they are fully baked and co
 - shredded parmesan
 - roughly chopped garlic
 - everything bagel seasoning
+- cheddar with everything seasoning on top
