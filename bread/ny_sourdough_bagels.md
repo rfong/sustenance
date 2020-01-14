@@ -10,7 +10,7 @@ Main differences:
 
 Start thinking about bagels 48 hours before you want to eat them (or more if your starter has been inactive for a while). Bagels are really easy to work into a busy schedule.
 
-- T-2 days: Feed starter
+- T-2 days: Feed starter (2x/day until ready)
 - T-1 AM: Mix sponge in morning (10m)
 - T-1 PM: Mix dough at night (15m)
 - T+0 Baking day: Boil & bake in the evening (1-2hr)
@@ -40,7 +40,7 @@ I've been mostly using all white bread flour, sometimes subbing 1/8 of it with w
 
 ### Sponge
 
-Mix ingredients until lumps are gone. Cover with plastic and leave for at least 6-8 hours. Sponge is ready when very foamy and stretchy, and when it passes the float test.
+Once your starter is very active, make the sponge. Mix ingredients until lumps are gone. Cover with plastic and leave for 6-10 hours. Sponge is ready when very foamy and stretchy, and when it passes the float test.
 
 ### Dough
 
@@ -50,11 +50,11 @@ Knead the dough until smooth and elastic. Your goal is dough that is tough and n
 
 Continue kneading the dough 10 minutes by hook or 15 minutes by hand until fully smooth and elastic.
 
-Cover and refrigerate at least overnight, preferably as much as 36 hours.
+Cover and refrigerate at least overnight, preferably between 16 and 36 hours. 18-22 hours is my sweet spot.
 
 ### Proof & shape
 
-Divide the dough into 12 pieces (or 6 for the half-recipe). Should average 115-120g. (The size has a finicky result on the final texture; see note below.)
+Divide the dough into 12 pieces (or 6 for the half-recipe). Pieces should weigh 110-120g. (The size has a finicky result on the final texture; see note below.)
 
 Shape the pieces into rolls on a *clean surface*. Cover with damp towel and let them rest 20 minutes.
 
@@ -64,19 +64,19 @@ Float test. If a bagel doesn't float, gently dry it off and wait another 20 minu
 
 #### Note on sizing
 
-I've been making bagels that average 115-120g by pre-boiling dough weight. All my numbers here are calibrated to that size. If you change by as much as 10-15%, you will experience a qualitatively noticeable difference in softness, poofiness, necessary boiling time, and necessary baking time, and may need to recalibrate to find out what works for you.
+I've been making bagels that average 115g by pre-boiling dough weight. All my numbers here are calibrated to that size. If you change by as much as 10-15%, you will experience a qualitatively noticeable difference in softness, poofiness, necessary boiling time, and necessary baking time, and may need to recalibrate to find out what works for you.
 
 ### Boil & bake
 
 Preheat oven to 500F.
 
-Bring a wide pot or deep saucepan of water, plus 1 Tbsp baking soda, to a rolling boil. Leave heat on high to ensure rapid boil. In the meantime, prep your bagel toppings.
+Bring a wide pot or deep saucepan of water, plus 1 Tbsp baking soda, to a rolling boil. Leave heat on high to ensure rapid boil. In the meantime, prep your bagel toppings and line a baking sheet with parchment.
 
 When water is at a rolling boil, carefully lower bagels (as many at a time as fit comfortably) in with a spatula or slotted spoon. Let them boil 60-90 seconds on each side.
 
 Move bagels to a parchment-lined baking sheet. (I do 6 bagels to a sheet; if you overcrowd, the heat distribution may result in less crust browning.) Sprinkle bagels with toppings immediately, as this is when they are the stickiest.
 
-Lower the oven to 475F. Bake for a total of 20 minutes or until a light golden-brown. Midway through, rotate the pan.
+Lower the oven to 475F. Bake for a total of 20 minutes or until a light golden-brown. (If baking a second batch, check earlier.) Midway through, rotate the pan.
 
 Let cool on rack.
 
