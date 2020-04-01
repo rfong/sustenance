@@ -17,10 +17,13 @@
 + 500F-capable oven
 + wide mixing bowl
 + kitchen scale with tare function
-+ reusable bowl wrap (I have a Bee's Wrap, but it isn't remotely airtight, so I just clove hitch it down with a piece of paracord)
 + bench scraper
-+ parchment paper
-+ Dutch oven
+
+*useful things that can be fudged or improvised from other common kitchen implements if you don't want to buy them*
+
++ reusable bowl wrap (I have a Bee's Wrap, but it isn't remotely airtight, so I just clove hitch it down with a piece of paracord)
++ parchment paper (can use cornmeal/semolina/grease)
++ Dutch oven (can use upside-down oven-safe pot)
 + flour sack towels
 + pyrex measuring cup
 
