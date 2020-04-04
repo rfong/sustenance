@@ -52,7 +52,7 @@ It's not originally recommended at this stage, but I do a couple more stretch & 
 
 When it's starting to look poofy (probably within 1-2 hours), preheat the oven to 500F. Line a pan, or ideally a Dutch oven / combo cooker, with parchment. If you don't have a closed baking vessel, steam the oven too. (I do this by adding an oven safe dish containing a couple cups of water.)
 
-Gently stretch dough piece(s) you are about to bake into an oblong rectangle shape and quickly flip upside down onto the parchment.
+Gently stretch dough piece(s) you are about to bake into an oblong rectangle shape and quickly flip upside down onto the parchment. Dust the tops with flour.
 
 Slide pan into oven and lower heat to 475F. 
 Bake until golden brown or 205F in the center (15-25 minutes depending on size), rotating halfway through. If you're using a Dutch oven, also remove the lid at the halfway point.
