@@ -7,6 +7,7 @@
 ## resources
 
 + [Kneading techniques | Bread Magazine](https://bread-magazine.com/kneading-technique-roundup/)
++ [Slap & Fold technique | The Perfect Loaf](https://www.theperfectloaf.com/guides/slap-and-fold/) (NSFW warning: autoplays wet slappy dough sounds)
 + [The Five Stages of Bread Effort | me](https://medium.com/@rhetoricize/the-five-stages-of-bread-effort-1190cd8b2d97)
 
 
