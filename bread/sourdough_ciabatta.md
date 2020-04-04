@@ -7,78 +7,58 @@ but overall relatively mild and creamy.
 Very loosely adapted from [Jason's Quick Cocodrillo Ciabatta](http://www.thefreshloaf.com/node/2984/jasons-quick-coccodrillo-ciabatta-bread), 
 with additional tips in [this comment](http://www.thefreshloaf.com//node/3088/bluezebras-baking-banter#comment-14086). My changes:
 - Added sourdough starter
-- All gluten formation done by hand. I don't have a mixer and am trying to own fewer tools right now.
-- Lowered to 90% hydration because I'm a high-hydration newbie.
+- No mixer used.
+- Lowered to 90% hydration to make it easier. Original recipe is a whopping 95% hydration.
 - No longer a same-day bread. I added an overnight fermentation.
 
-### Notes
+### Tips
 
-- Using a Dutch oven for the first half of the bake produces a much more aesthetic golden crust than simply baking with a steam pan. Otherwise, I don't think it changed the flavor/texture substantially.
+- Using a Dutch oven for the first half of the bake produces a much more aesthetic golden crust than simply baking with a steam pan, and a better rise. Otherwise, I don't think it changed the flavor/texture substantially.
 - SOPPING WET HANDS ARE YOUR ONLY DEFENSE AGAINST THE SUPERGLUE THAT IS HIGH HYDRATION DOUGH. RE-WET YOUR HANDS & SCRAPER LIKE YOUR SANITY DEPENDS ON IT (WHICH IT DOES).
+- If you plan to deal with more than 1 or 2 loaves, you might want a couche to keep them separated during final bench rise. The dough is really gloopy and the pieces ooze into each other easily.
 
-## Trial #1, 3/30
+### Iteration notes
 
-*90% hydration*
-- 250g white bread flour
-- 225g water, lukewarm (110F?)
+- I did a round with starter that had been in the fridge for a day and it rose substantially less.
+- I did a round where I held back 1/10 of the water and added it gradually while strengthening the gluten, in hopes this would make it easier to handle. It helped a little but I don't think it was worth the extra effort for me.
+
+## Process
+
+### Ingredients
+
+*90% hydration dough*
+- 500g white bread flour
+- 450g water, lukewarm (~110F)
 - 20g active sourdough starter
-- 8 g salt
-- 1 tsp instant yeast
+- 2 tsp instant yeast
+- 15g salt
 
+### First day
+
+Dissolve the starter and yeast in the water. Sift the salt into the flour. Combine.
 Stir until the dough comes together and gluten strands develop, about 15-20 minutes. 
-Perform 3 stretch & folds at 30-45m intervals to build more tension. 
-At this point I fridged overnight because it was getting late.
 
-When the dough has tripled (I checked 12 hours later), turn out onto a well floured surface. 
-*You will need wet hands and a wet bench scraper to get anywhere near this dough.* 
-At this point, you can split the dough if you want multiple pieces. 
+Perform 3 stretch & folds at 30-45m intervals to build more tension.
 
-I did a couple of stretch & folds even though that's not recommended at this stage.
+Fridge overnight (8-12 hours) or until dough has tripled.
 
-When it looks poofy (1-2 hrs), preheat the oven to 500F and line a pan with parchment. 
-Gently stretch the dough into a 10" oblong rectangle and quickly flip it upside down onto the parchment.
+### Second day
+
+Get a bowl of water to dip your hands in. You will need continuously wet hands and a wet bench scraper to get anywhere near this dough without pulling off chunks.
+
+Turn out dough onto a well floured surface. Split the dough into 2-4 pieces.
+
+It's not originally recommended at this stage, but I do a couple more stretch & fold rounds at 30-45m intervals.
+
+When it's starting to look poofy (probably within 1-2 hours), preheat the oven to 500F. Line a pan, or ideally a Dutch oven / combo cooker, with parchment. If you don't have a closed baking vessel, steam the oven too. (I do this by adding an oven safe dish containing a couple cups of water.)
+
+Gently stretch dough piece(s) you are about to bake into an oblong rectangle shape and quickly flip upside down onto the parchment.
 
 Slide pan into oven and lower heat to 475F. 
-Bake until golden brown or 205F in the center (15-25 minutes), rotating the pan halfway through.
+Bake until golden brown or 205F in the center (15-25 minutes depending on size), rotating halfway through. If you're using a Dutch oven, also remove the lid at the halfway point.
 
-Let cool for as long as you can stand not to eat fresh bread. I lasted about 30 minutes.
+Let cool for 20+ minutes.
 
-### Commentary
+### Results
 
-This was pretty darn good. Crust was dull and rough looking, but crumb looked as good as photos from more experienced bakers. Very very moist.
-
-**Things to try changing next time:**
-- Hold back some of the water and add it in (possibly with the salt) after the dough has developed some tension. (At this point, am I basically doing an extra-gloopy sourdough country bread?)
-- The crust was mediocre looking; I forgot to steam the oven.
-- Do more stretch & fold before the fridge step.
-
-
-## Trial #2, 3/31
-
-*90% hydration*, 500g white bread flour. Water 90F. My starter was not as active this time. I forgot to scale the salt and instant yeast to the doubling, wow.
-
-Hold back 50g water and the salt. Stir until the dough comes together. Stretch and fold in the bowl a few times. Wait to autolyse, 2.5 hrs.
-
-Massage in the held-back 50g water with the salt dissolved in it. Knead until the dough comes together. Stretch and fold in the bowl until passing the windowpane test.
-
-Fridge overnight 12 hours.
-
-Flour. Bench. Split into 2 pieces. Dust tops with flour and let proof 45 minutes. Steam & preheat oven to 500F. Line pans.
-
-*Gently* stretch dough into final shapes without degassing, and flip upside down onto parchment. Slide into oven.
-
-Lower heat to 475F. Bake for until golden brown (20-25? minutes), rotating the pan midway.
-
-Remove and let cool 20+ minutes.
-
-### Commentary
-
-Less moist, less flavor, and less holey than the first trial. Still good though. 
-I messed up quite a lot of ingredient factors because I wasn't looking at a reference, 
-and changed quite a lot of process factors, so it's hard to know what happened.
-
-Maybe I need a couche
-
-**What to try next time**
-
-Revert to trial #1, but do more stretch & folds prior to fridging and eliminate the post-fridge stretch & fold.
+This was pretty darn good. Very very moist. Fantastic rise with really holey structure.
