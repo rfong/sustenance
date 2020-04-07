@@ -12,7 +12,7 @@
 
 
 ## my tools
-*sorted in roughly decreasing order of necessity*
+*relatively necessary*
 
 + bread knife
 + 500F-capable oven
@@ -20,12 +20,13 @@
 + kitchen scale with tare function
 + bench scraper
 
-*useful things that can be fudged or improvised from other common kitchen implements if you don't want to buy them*
+*useful, but can be improvised from other common kitchen implements*
 
-+ reusable bowl wrap (I have a Bee's Wrap, but it isn't remotely airtight, so I just clove hitch it down with a piece of paracord)
-+ parchment paper (can use cornmeal/semolina/grease)
-+ Dutch oven (can use upside-down oven-safe pot)
-+ flour sack towels
-+ pyrex measuring cup
++ reusable bowl wrap (I have a Bee's Wrap, which isn't remotely airtight, so I just tie it down with a piece of paracord)
++ parchment paper (can also use cornmeal/semolina/grease)
++ Dutch oven (can also use combo cooker or upside-down oven-safe pot)
++ floursack towels for proofing
++ cooling rack
++ probe thermometer
 
 I'm used to fudging water temperatures from brewing tea all the time, so I don't usually use a thermometer. For example, if I want 110F water for my yeast, I'll do about 40% boiling water + 60% fridge water, i.e. `(212*0.4) + (50*0.6) ~= 115`, and assume I've lost a few degrees by transference into a room temperature container.
