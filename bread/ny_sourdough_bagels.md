@@ -26,11 +26,13 @@ Start thinking about bagels 48 hours before you want to eat them (or more if you
 | *Dough* | | |
 | sourdough sponge (above) | | |
 | high-gluten flour | 350 g to start, up to 500 g | 175 g to start, up to 250 g |
-| barley malt | 2 tsp | 1 tsp |
+| barley malt powder | 2 tsp | 1 tsp |
 | salt | 1 Tbsp | 1-1/2 tsp |
 | dry yeast | 1 tsp | 1/2 tsp |
 
 Use high-gluten (14%) flour if possible to find. Otherwise, normal 12% gluten bread flour is ok.
+
+Your measurements may differ if using barley malt syrup, etc, instead of barley malt powder. Cross check with another recipe.
 
 ### White:wheat ratio
 
@@ -44,7 +46,7 @@ Once your starter is very active, make the sponge. Mix ingredients until lumps a
 
 ### Dough
 
-Mix dry ingredients and then mix together with the sponge until incorporated.
+Combine dry ingredients. Mix all dough ingredients together with the sponge until incorporated.
 
 Knead the dough until smooth and elastic. Your goal is dough that is tough and non-sticky. If sticky, you may need to add more flour. If you see tears or stretch marks, dip your hands in water or add a few drops of water.
 
