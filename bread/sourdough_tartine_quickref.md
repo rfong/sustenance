@@ -7,7 +7,7 @@ Use bread flour, defaulting to unbleached. You can substitute whole wheat up to 
 ### STARTER
 Feed in AM/PM, at least three times before you start the dough.
 
-### LEAVEN (3+ hrs)
+### LEVAIN (3+ hrs)
 + *1 heaping Tbsp sourdough starter*
 + *75 grams bread flour*
 + *75 grams water*
@@ -16,11 +16,19 @@ Cover and float test once an hour, starting at 3 hours, until ready.
 
 ### DOUGH (minimum 4.5 hrs)
 
+Pick a hydration level.
+
+Hydration | Post-levain water
+:--- | ---
+74% | 500g (divided 450 + 50)
+78% | 530g (divided 480 + 50)
+82% | 560g (divided 510 + 50)
+
 #### AUTOLYSE (15m active + 0.5-4 hrs wait time)
-+ *400-450 grams water* (less if using only unbleached flour, more if using 50/50 flour)
++ *450-510 grams water*
 + *700 grams bread flour*
 
-Stir water into leaven, then flour, until fully incorporated. Cover and let rest for 30 min to 4 hours.
+Stir water into levain, then flour, until fully incorporated. Cover and let rest for 30 min to 4 hours.
 
 Plan so that you will have a 4-hour continuous block in which to tend to the bulk rise, middle cycle, and shaping.
 
@@ -44,7 +52,7 @@ Let rest for 30 minutes. While you wait, line two bowls/baskets with clean flour
 
 #### FINAL SHAPING (10 min)
 
-Dust dough with flour. Flip and increase surface tension by pulling all four sides over into the middle with your pastry scraper.
+Dust dough with flour. Flip and increase surface tension by gently pulling all four sides over into the middle with your pastry scraper.
 
 Dust with flour all over and place into lined proofing bowls/baskets so the seam side is up.
 
@@ -58,7 +66,7 @@ Place Dutch oven(s) in the oven and preheat to 500F.
 
 When preheat is finished, take out the Dutch oven. Take dough out of fridge and score deeply at an angle with a serrated bread knife. Drop dough into Dutch oven.
 
-Reduce temperature to 475F. **Bake covered for 20 minutes.** Meanwhile, soak the flour-covered towel in hot water to get the flour off.
+Reduce temperature to 475F. **Bake covered for 20 minutes.** Meanwhile, soak the flour-covered towel in hot water and/or scrub with a bristle brush to get the flour off.
 
 Remove the lid and **bake uncovered for another 20 minutes** (or until a deep brown by sight).
 
