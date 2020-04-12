@@ -58,10 +58,12 @@ The morning you plan to make the dough, place all the leaven ingredients in a la
 - 1 tablespoon sea salt
 - 700 grams 50/50 bread flour (5 1/2 cups)
 
+**Note:** This yields ~74% hydration (`(500+75)/(700+75)`). It's a bit easier to work with than the standard Tartine recipe, but you won't get a super moist glossy crumb. If you want that, go up to 78% hydration by using 530g water (divided into 480 + 50) in the dough stage.
+
 #### AUTOLYSE (1-4 hrs)
 *During this stage, the flour is fully absorbing the water and enzymes in the flour begin breaking down the starches and proteins.*
 
-1. (~20 minutes) Add **450 grams** of water to the bowl of leaven and stir. It's okay if there are still some clumps. Add the flour. Add the flour and stir until fully incorporated into an extremely shaggy, sticky dough. (If needed, you can add more water VERY GRADUALLY. Start with just wetted hands for minor adjustment, or you can add *small* spoonfuls at a time if dough is visibly dry. It's very easy to add too much water. Document how much you needed to adjust by.)
+1. (~20 minutes) Add **450 grams** of water (or total dough water minus 50g) to the bowl of leaven and stir. It's okay if there are still some clumps. Add the flour. Add the flour and stir until fully incorporated into an extremely shaggy, sticky dough. (If needed, you can add more water VERY GRADUALLY. Start with just wetted hands for minor adjustment, or you can add *small* spoonfuls at a time if dough is visibly dry. It's very easy to add too much water. Document how much you needed to adjust by.)
 
 1. REST (30 minutes to 4 hours): Cover the bowl with plastic wrap or a clean kitchen towel. Let the dough rest for at least 30 minutes or up to 4 hours.
 
