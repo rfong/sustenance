@@ -2,7 +2,7 @@
 
 Quick reference for making 2 loaves of [sourdough_tartine.md](sourdough_tartine.md) if you have already done this a few times, calibrated the measurements to your kitchen environment, and no longer need the explanations.
 
-Use bread flour, defaulting to unbleached. You can substitute whole wheat up to 50%. If using all unbleached, use the lower end of the hydration scale. If using more whole wheat, use the higher end.
+Use bread flour, defaulting to unbleached. You can substitute whole wheat up to 50%. Whole wheat requires a bit more hydration.
 
 ### STARTER
 Feed in AM/PM, at least three times before you start the dough.
