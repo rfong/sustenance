@@ -3,7 +3,7 @@ zi ma wu (黑芝麻糊)
 
 (Traditionally, you would toast and grind the black sesame yourself and use rice soaked overnight; this is the easy lazy version.)
 
-Unflavored tahini is a great shortcut so long as the sesame is toasted before use. I use Kevala black sesame tahini.
+Unflavored tahini is a great shortcut so long as the sesame is *toasted* before it's ground. If the tahini is made from raw sesame, it will taste bitter. I use Kevala black sesame tahini.
 
 *Ingredients*
 - 1 unit finely ground toasted black sesame paste
