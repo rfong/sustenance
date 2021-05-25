@@ -1,7 +1,12 @@
 # Sourdough
-Based on mmou's adaptation of https://www.thekitchn.com/how-to-make-sourdough-bread-224367, which is based on Chad Robertson's Tartine Bread recipe.
+Based on mmou's 50/50 (half whole-wheat, half white) adaptation of https://www.thekitchn.com/how-to-make-sourdough-bread-224367, which is based on Chad Robertson's Tartine Bread recipe.
 
 Assumes you already have a sourdough starter.
+
+### Adjusting the whole-wheat-to-white flour ratio
+https://www.abreaducation.com/content/baking-bread-with-whole-wheat-flour.
+
+Adjust the hydration percentage down 1% to go to 25% WW. When in doubt, round down your water; it is easier to adjust a dough that is too dry than a dough that is too wet.
 
 ## MAKES
 2 boules (round loaves).
@@ -11,7 +16,7 @@ Assumes you already have a sourdough starter.
 - Mixing bowls
 - Cotton towels to line bowls for proofing (flour sack towels work well)
 - Plastic wrap or other moisture-proof covering for the bowls
-- Dutch ovens or large heavy-bottomed pots with lids
+- Dutch ovens (or large, oven-safe, heavy-bottomed pots with lids)
 - Pastry scraper
 - Serrated bread knife
 - Kitchen gram scale
@@ -21,7 +26,7 @@ You must make the leaven, autolyse, bulk rise, middle rise, and shape on the sam
 
 **Example schedule** (labeled "babysitting" if I can't leave the house for more than an hour):
 - Thurs, Fri (flexible): Feed starter every AM and PM.
-- Sat AM (2-4 hrs babysitting): Make leaven, mix dough.
+- Sat AM (2-4 hrs): Make leaven, mix dough. Babysitting the first few times until you figure out how long leaven takes in your kitchen.
 - Sat (flexible): Autolyse. Rest 30min to 4 hrs.
 - Sat PM (4.5 hrs babysitting): Bulk rise, middle cycle, shaping.
 - Proof overnight in fridge.
@@ -39,7 +44,7 @@ It's convenient to maintain a small starter. I just leave the scrapings in my ja
 
 **Ingredients**
 - 1 heaping tablespoon active sourdough starter
-- 75 grams bread flour
+- 75 grams 50/50 bread flour
 - 75 grams water
 
 The morning you plan to make the dough, place all the leaven ingredients in a large bowl and mix thoroughly. Cover and let stand at room temperature. Float test every hour. (For me, it tends to be ready after 3 hours.)
@@ -51,12 +56,14 @@ The morning you plan to make the dough, place all the leaven ingredients in a la
 **Ingredients**
 - 500 grams water, divided (a small amount of water will be set aside to dissolve your salt in)
 - 1 tablespoon sea salt
-- 700 grams bread flour (5 1/2 cups)
+- 700 grams 50/50 bread flour (5 1/2 cups)
+
+**Note:** This yields ~74% hydration (`(500+75)/(700+75)`). It's a bit easier to work with than the standard Tartine recipe, but you won't get a super moist glossy crumb. If you want that, go up to 78% hydration by using 530g water (divided into 480 + 50) in the dough stage.
 
 #### AUTOLYSE (1-4 hrs)
 *During this stage, the flour is fully absorbing the water and enzymes in the flour begin breaking down the starches and proteins.*
 
-1. (~20 minutes) Add **450 grams** of water to the bowl of leaven and stir. It's okay if there are still some clumps. Add the flour. Add the flour and stir until fully incorporated into an extremely shaggy, sticky dough. (If needed, you can add more water VERY GRADUALLY. Start with just wetted hands for minor adjustment, or you can add *small* spoonfuls at a time if dough is visibly dry. It's very easy to add too much water. Document how much you needed to adjust by.)
+1. (~20 minutes) Add **450 grams** of water (or total dough water minus 50g) to the bowl of leaven and stir. It's okay if there are still some clumps. Add the flour. Add the flour and stir until fully incorporated into an extremely shaggy, sticky dough. (If needed, you can add more water VERY GRADUALLY. Start with just wetted hands for minor adjustment, or you can add *small* spoonfuls at a time if dough is visibly dry. It's very easy to add too much water. Document how much you needed to adjust by.)
 
 1. REST (30 minutes to 4 hours): Cover the bowl with plastic wrap or a clean kitchen towel. Let the dough rest for at least 30 minutes or up to 4 hours.
 
@@ -113,7 +120,6 @@ The morning you plan to make the dough, place all the leaven ingredients in a la
 1. COOLING: When done, carefully lift the loaves out of the pots using a utensil. Transfer them to wire racks to cool completely, at least 10 minutes. Do not attempt to artificially accelerate the cooling -- the loaves are still cooking on the inside, and this is part of the process.
 
 ## PROCESS NOTES
-- Whole-wheat sourdough: You can replace up to half of the all-purpose flour with whole-wheat or whole-grain flour.
 
 - All-purpose vs. bread flour: Bread flour will give your bread a sturdier, chewier texture and a loaf that's easier to slice. Loaves made with all-purpose flour will be a bit more delicate, especially when you cut them, but still work just fine.
 
@@ -121,4 +127,4 @@ The morning you plan to make the dough, place all the leaven ingredients in a la
 
 - Storage: Bread can be stored at room temperature (cut-side down if cut) in a paper bag for up to 3 days well wrapped in plastic wrap and frozen for up to 2 months.
 
-- Cleaning your proofing towel [[MetaFilter](https://ask.metafilter.com/55323/how-to-wash-out-flour)]: beat the towel out and/or vacuum it while dry. Soak in warm water for an hour or so, then scrub with a bristle brush. I use a tawashi brush.
+- Cleaning your proofing towel [[MetaFilter](https://ask.metafilter.com/55323/how-to-wash-out-flour)]: Soak in warm water for an hour or so, then scrub with a bristle brush. I use a tawashi brush. If there is a lot of excess flour, beat the towel out and/or vacuum it while it is still dry. 
