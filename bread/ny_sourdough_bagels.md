@@ -4,7 +4,7 @@ Adapted from [New York style sourdough bagels - Peter Reinhart | Honest Cooking]
 
 Main differences:
 - Moved the shaping step to after the cold fermentation, because I don't have room in my fridge for a whole tray of bagels.
-- Increased hydration ratio a couple percent.
+- Increased hydration ratio a little. It is my personal opinion (shared by many alt.bread users) that Reinhart's recipes tend to lean relatively dry & dense within bread genres.
 
 ### Scheduling
 
