@@ -39,9 +39,9 @@ Great as a rice bowl topping, alongside homefries, or pretty much anywhere you n
 2. Quarter a purple cabbage and start slicing it up.
 3. Layer handfuls of cabbage and 1-2 hefty pinches of salt per layer, plus fennel seed to taste. (Use as much fennel as you would season a cooked food with.)
 4. When the jar is about half full, start smashing down the cabbage.
-5. Continue layering and smashing until it is not possible to get any more cabbage in the jar. The salt will have started breaking down the cabbage. You should be able to get the cabbage juices to nearly cover all the cabbage, but not quite.
+5. Continue layering and smashing until it is not possible to get any more cabbage in the jar. The salt will have started breaking down the cabbage after several minutes. You should be able to get the cabbage juices to nearly cover all the cabbage, but not quite.
 6. Add just enough water to cover the cabbage. Optional: you can also add weights if you have them to submerge everything beneath the surface. I don't use weights and it's fine.
-7. Write the date on the jar and shelve it. Put a plate underneath to catch leaked juice. I find it tastes best after a minimum of 1 month, though you can open it early if you are impatient.
+7. Write the date on the jar and shelve it. Put a plate underneath to catch leaked juice. I enjoy it best after a minimum of 1 month, though you can open it early if you are impatient.
 
 Once opened, store in the refrigerator.
 
@@ -64,3 +64,10 @@ This preserve doesn't produce much gas, so I use a normal jar instead of a canni
 3. Smash them down into the jar until they all fit.
 4. Cover with lemon juice, or with more water otherwise.
 5. Date the jar and shelve for a minimum of 1 month.
+
+
+## Other straightforward favorites
+- golden beets
+- radishes
+- beet & radish greens
+- scallions

@@ -33,7 +33,7 @@ Ume vinegar and red onion are both extremely strong flavors, but they somehow me
 - 1 small daikon
 - 2-3L glass jar
 
-Slice the onions and daikon into bite-sized pieces and cover with ume vinegar. Add water if needed to cover. Refrigerate and wait 2 days to eat.
+Slice the onions and daikon into bite-sized pieces and cover with a 50-50 blend of ume vinegar and water. Refrigerate and wait 2 days to eat.
 
 You can't effectively reuse the vinegar for these (onions are strong enough that they don't seem to transmute in reused vinegar), which is unfortunate because ume vinegar is pretty expensive in the States.
 
