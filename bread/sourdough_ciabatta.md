@@ -1,21 +1,22 @@
 # High-hydration sourdough ciabatta
 
-**What I'm optimizing for**: super moist tender crumb with big holes, some sourdoughy bready flavor, 
-but overall relatively mild and creamy.
+**What I'm optimizing for**: super moist tender crumb with big holes, some sourdoughy bready flavor, but overall relatively mild and creamy.
+
+**Note**: This ciabatta often develops a rich flavor that tastes almost eggy.
 
 Very loosely adapted from [Jason's Quick Cocodrillo Ciabatta](http://www.thefreshloaf.com/node/2984/jasons-quick-coccodrillo-ciabatta-bread), 
 with additional tips in [this comment](http://www.thefreshloaf.com//node/3088/bluezebras-baking-banter#comment-14086). My changes:
 - Added sourdough starter
-- No mixer used. I use spaced stretch-n'-folds for gluten development instead.
-- No longer a same-day bread. I added an overnight fermentation.
+- No mixer used. I use spaced stretch-n'-folds for gluten development instead for convenience (and to avoid overmixing).
+- No longer a same-day bread. I added an overnight fermentation for scheduling convenience.
 
 ### Tips
 
+- If you are new to high-hydration bread, I recommend starting at 90% until you are comfortable before moving to 95%.
 - Using a Dutch oven for the first half of the bake produces a much more aesthetic golden crust than simply baking with a steam pan, and a better rise. Otherwise, I don't think it changed the flavor/texture substantially.
 - SOPPING WET HANDS ARE YOUR ONLY DEFENSE AGAINST THE SUPERGLUE THAT IS HIGH HYDRATION DOUGH. RE-WET YOUR HANDS & SCRAPER LIKE YOUR SANITY DEPENDS ON IT (WHICH IT DOES).
-- Wet hands and floured hands are defense tactics that CANNOT BE USED SIMULTANEOUSLY. Floured hands are also not very effective against 95% hydration dough. I only use floured hands at the very end, for final shaping.
+- Wet hands and floured hands are defense tactics that CANNOT BE USED SIMULTANEOUSLY. Floured hands are also not very effective against 95% hydration dough.
 - If you own a couche, definitely use it to keep multiple loaves separated during final bench rise. The dough is really gloopy and the pieces ooze into each other easily. (I don't have a couche, and I have tried building moats out of utensils or lines of flour, but more often than not the dough simply devours them.)
-
 
 ## Process
 
@@ -35,7 +36,7 @@ Stir until the dough comes together and gluten strands develop, about 15-20 minu
 
 Get a bowl of water to dip your hands in. You will need continuously wet hands and a wet bench scraper to get anywhere near this dough without turning your hands into sticky dough balls. I tend to dip my hands between each time I touch the dough.
 
-Perform 3 stretch & folds at 30-45m intervals to build more tension.
+Perform 3 stretch & folds at 30-45m intervals to build more tension. You don't need to develop this stuff until it's perfectly round like country bread, it just needs to be coherent and not tear when you stretch it.
 
 Fridge overnight (8-12 hours) or until dough has tripled.
 
@@ -63,18 +64,15 @@ Let cool for 10+ minutes.
 
 This was pretty darn good. Very very moist. Fantastic rise with really holey structure.
 
-This ciabatta often develops a rich flavor that tastes almost eggy.
-
 ### Iteration notes
 
-- I did a round with starter that had been in the fridge for a day and it rose substantially less.
 - I did a round where I held back 1/10 of the water and added it gradually while strengthening the gluten, in hopes this would make it easier to handle. It helped a little but I don't think it was worth the extra effort for me.
 
 -----
 
 # Variants
 
-I've been tweaking this bread to fit my schedule and personal tastes rather than cleaving true tothe original bread.
+I've been tweaking this bread to fit my schedule and personal tastes rather than cleaving true to the original bread.
 
 ## "Moon bread" / "Fool's ciabatta"
 
