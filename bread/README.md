@@ -1,8 +1,8 @@
 # bread
 + [pain_lancienne.md](pain_lancienne.md) - Delayed fermentation bread, or pain l'ancienne. Instant yeast based. Extremely low-effort bread, no dough babysitting time. Very bready tasting, not sour. 15 min active work (5 min mixing, 2-3 days waiting, 10 min shaping on bake day).
-+ [sourdough_tartine.md](sourdough_tartine.md) - Tartine style sourdough. Not too sour, tender and holey crumb but not too holey, crunchy crust, very beautiful when done correctly. Requires a solid day of babysitting (about 8 hrs on/off) and then the next morning (~1.5 hrs).
++ [sourdough_ciabatta.md](sourdough_ciabatta.md) - A super-high-hydration quick ferment using both sourdough starter and instant yeast. Not particularly sour, has a mild yet rich flavor. Extremely moist and holey with fantastic rise. Crust is rather soft. Only a little more work than pain l'ancienne. 5 min active work, 1-2 hrs of babysitting every half hour, overnight wait, then 10 min of work on baking day.
++ [sourdough_tartine.md](sourdough_tartine.md) - Tartine-style sourdough. Not too sour, tender and holey crumb but not too holey, crunchy crust, very beautiful when done correctly. Tasty but effortful; requires a solid day of babysitting (about 8 hrs on/off) and then the next morning (~1.5 hrs).
 + [ny_sourdough_bagels.md](ny_sourdough_bagels.md) - adaptation of Peter Reinhart's NY-style sourdough bagels to work with less fridge space
-+ [sourdough_ciabatta.md](sourdough_ciabatta.md) - A quick ferment using both sourdough starter and instant yeast. Not particularly sour, has a mild yet rich flavor. Extremely moist and holey with fantastic rise. Crust is rather soft. Only a little more work than pain l'ancienne. 5 min active work, 1-2 hrs babysitting every half hour, overnight wait, then 10 min of work on baking day.
 + [flatbread.md](flatbread.md) - Quick and simple flatbread mountain party pile for those who crave flatbread.
 
 
