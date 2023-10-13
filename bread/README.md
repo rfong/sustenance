@@ -9,6 +9,7 @@
 - Want to quickly produce a very large volume of inexpensive and delicious calories for a potluck/picnic? Make high-hydration ciabatta or pain l'ancienne.
 - Want to punish yourself while simultaneously deepening your understanding of bread chemistry and perfecting your mastery over bread variables? Try Tartine-style sourdough.
 - Want to do an interactive bread activity with friends? Try flatbread mountain (quick & super easy), soft pretzels (medium speed & ease), or sourdough bagels (prep required).
+- "I don't have time to make bread": I made pain l'ancienne multiple times a week while working 90 hrs/week as an MIT undergrad with a $100-120/mo food budget, so I'm pretty confident that anyone with an oven and a fridge can fit this bread into their lifestyle. It really is that low-effort.
 
 ## resources
 
