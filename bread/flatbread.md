@@ -20,9 +20,6 @@ I usually make 36 flatbreads at a time. They will get eaten faster than you thin
 
 # Instructions
 
-This tends to work best as at least a two-person endeavour. 
-When making 36 flatbreads, I find it easiest with three people: one grillmaster managing two frying pans, and two people shaping the flatbreads.
-
 Mix the dry ingredients in one bowl. Then add the wet ingredients and mix/knead until the dough is cohesive and smooth. Let the dough rest for 30 minutes.
 
 ## Shaping
@@ -38,6 +35,16 @@ You can flatten them with your hands, but it's faster to use a French rolling pi
 ## Frying
 
 Prepare a place to put your finished flatbreads that is capable of catching a lot of oil. 
-You can use paper towels, but I use a cooling rack over a baking sheet.
+You can use a large quantity of paper towels. I tend to use a cooling rack over a baking sheet.
 
 Preheat a cast iron skillet with a tablespoon of oil. Fry flatbreads for 2-3 minutes on each side or until golden brown, and replenish oil as needed.
+
+### Splitting up the work
+This tends to work best if you have at least two people.
+
+When making 36 flatbreads, I find it easiest with three people: one grillmaster managing two frying pans, and two people shaping the flatbreads.
+
+### Ventilation
+
+It's gonna get smoky really fast, so turn on the hood and any fans/filters you have and open the windows for good measure before you start frying.
+

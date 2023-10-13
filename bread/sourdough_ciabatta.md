@@ -2,13 +2,15 @@
 
 **What I'm optimizing for**: super moist tender crumb with big holes, some sourdoughy bready flavor, but overall relatively mild and creamy.
 
-**Note**: This ciabatta often develops a rich flavor that tastes almost eggy.
+This ciabatta tends to develop a rich flavor that tastes almost eggy.
 
 Very loosely adapted from [Jason's Quick Cocodrillo Ciabatta](http://www.thefreshloaf.com/node/2984/jasons-quick-coccodrillo-ciabatta-bread), 
 with additional tips in [this comment](http://www.thefreshloaf.com//node/3088/bluezebras-baking-banter#comment-14086). My changes:
 - Added sourdough starter
 - No mixer used. I use spaced stretch-n'-folds for gluten development instead for convenience (and to avoid overmixing).
 - No longer a same-day bread. I added an overnight fermentation for scheduling convenience.
+
+See the end for notes on "Fool's Ciabatta", which is my easy adaptation.
 
 ### Tips
 
@@ -32,7 +34,7 @@ with additional tips in [this comment](http://www.thefreshloaf.com//node/3088/bl
 ### First day
 
 Dissolve the starter and yeast in the water. Sift the salt into the flour. Combine.
-Stir until the dough comes together and gluten strands develop, about 15-20 minutes. 
+Stir until the dough comes together and some gluten strands develop.
 
 Get a bowl of water to dip your hands in. You will need continuously wet hands and a wet bench scraper to get anywhere near this dough without turning your hands into sticky dough balls. I tend to dip my hands between each time I touch the dough.
 
@@ -76,7 +78,7 @@ I've been tweaking this bread to fit my schedule and personal tastes rather than
 
 ## "Moon bread" / "Fool's ciabatta"
 
-The lazy version.
+The lazy version. This is the version I always make now.
 
 Same ingredients. Procedural changes:
 - don't bother with the post-fridge rise

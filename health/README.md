@@ -1,4 +1,5 @@
 ## manifesto
+- obviously I will take antibiotics in a life threatening situation, but otherwise:
 - I dislike the side effects of antibiotics
 - not into breeding antibiotic resistance either
 - many herbal remedies are comparably effective for non-life-threatening ailments

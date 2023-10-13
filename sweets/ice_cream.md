@@ -1,5 +1,9 @@
 # homemade ice cream
 
+my proudest ice cream achievement was making a mexican iced chocolate flavored ice cream for a group of people whose food sensitivities included: lactose intolerance, anaphylactic nut allergy, soy allergy, coconut allergy.
+
+I devised a vegan oat milk & olive oil base with the correct fat:water ratio and stabilized it with guar gum.
+
 ## bases
 
 ### fat-water ratio
@@ -29,11 +33,13 @@ For anything else, I infuse the flavorant and the desired sugar amount into simp
 The end volume of the syrup is difficult to control, so I just account in the final base as if it were the equivalent volume of water.
 
 ## flavors todo
-- [x] hibiscus
-- [x] honey lavender
-- [x] black sesame
-- [x] earl grey
-- [x] cardamom
+- [x] 🌟 honey lavender
+- [x] 🌟 black sesame & condensed milk
+- [x] 🌟 earl grey (I used Tea Gschwendner No. 69)
+- [x] 🌟 cardamom
 - [x] matcha
-- [x] honey bourbon whiskey
+- [x] honey bourbon whiskey (delicious but annoying to make)
+- [x] hibiscus
+- [x] salted triple vanilla (vanilla bean, vanilla paste, and vanilla extract)
+- [x] mexican iced chocolate (cayenne and very dark chocolate)
 - [ ] rooibos

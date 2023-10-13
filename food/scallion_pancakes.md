@@ -1,8 +1,8 @@
 # Scallion pancakes
 
-Adapted from [The Food Lab](https://www.seriouseats.com/recipes/2011/04/extra-flaky-scallion-pancakes-recipe.html) and [Omnivore's Cookbook](https://omnivorescookbook.com/chinese-scallion-pancakes/).
+Adapted from [The Food Lab](https://www.seriouseats.com/recipes/2011/04/extra-flaky-scallion-pancakes-recipe.html) and [Omnivore's Cookbook](https://omnivorescookbook.com/chinese-scallion-pancakes/). Makes 6 pancakes.
 
-Makes 6 pancakes.
+TODO: incorporate notes from *The Vegan Chinese Kitchen*.
 
 ### Heuristics
 

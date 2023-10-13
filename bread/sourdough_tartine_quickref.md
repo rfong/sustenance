@@ -4,6 +4,13 @@ Quick reference for making 2 loaves of [sourdough_tartine.md](sourdough_tartine.
 
 Use bread flour, defaulting to unbleached. You can substitute whole wheat up to 50%. Whole wheat requires a bit more hydration.
 
+## HYBRID VARIANT
+To couple a more intense savory bready flavor with the sourdough flavor, I like to do a hybrid variant between pain a l'ancienne and Tartine sourdough by adding an extended autolyse. 
+
+The only thing that changes is that I mix the post-levain flour with the post-levain water (reserving ~50g water to help with mixing later) up to half a day before the standard autolyse step. I usually line it up so that I'm starting the extended autolyse either when I mix the levain, or during the final starter feeding that runs overnight.
+
+## INSTRUCTIONS
+
 ### STARTER
 Feed in AM/PM, at least three times before you start the dough.
 
