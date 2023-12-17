@@ -1,42 +1,36 @@
 # Harissa white bean stew
 
-Spicy & colorful bean stew, adapted from [NY Times recipe](https://cooking.nytimes.com/recipes/1020754-spicy-white-bean-stew-with-broccoli-rabe). Vegan except for the optional crumbled cheese topping. If you want it completely vegan, Trader Joe's has a great vegan feta.
+Spicy & colorful bean stew, adapted from [NY Times recipe](https://cooking.nytimes.com/recipes/1020754-spicy-white-bean-stew-with-broccoli-rabe). 
+
+Vegan except for the optional crumbled cheese topping. If you want it completely vegan, Trader Joe's has a great vegan feta. I use Better Than Bouillon No-Chicken base to make the broth.
 
 TODO: modify for starting from dehydrated beans
 
 ## Ingredients (6-8 servings)
 
-- 1-1/2 cup olive oil
-- 8 garlic cloves
-- 2 medium onions (red or yellow)
-- 6 tablespoons harissa
-
-- 90oz hydrated white beans (or 6x 15oz cans)
-- 4-5 cups broth (I like Better Than Bouillon's "No Chicken" base)
-- 2 large bunches kale or broccoli rabe
-- salt & black pepper
-
-- 2 preserved lemons & some of their brine
-- 1 fresh lemon worth of juice
-
-Toppings
-- 1 bunch parsley or cilantro
-- 4oz salty cheese, such as feta, vegan feta, queso fresco, cotija, etc.
+| **small batch (serves 3-4)** | **2x batch (serves 6-8)** |
+| ----------- | ----------- |
+| 1/4 cup olive oil | 1/2 cup |
+| 4 cloves garlic, thinly sliced | 8 cloves |
+| 1 medium sized onions (red or yellow), thinly sliced | 2 onions |
+| 2-3 Tbsp harissa | 4-6 Tbsp|
+| pinch of red pepper flakes (optional) | 2 pinches |
+| 45 oz canned white beans, such as cannellini, drained and rinsed | 90 oz |
+| 4 cups broth | 6-8 cups |
+| 1 large bunch kale or broccoli rabe | 2 large bunches |
+| 1 preserved lemon, thinly sliced | 2 preserved lemons |
+| kosher salt and black pepper, to taste | to taste |
+| 1 cup parsley or cilantro for topping | 2 cups |
+| 2 oz salty hard cheese (such as feta, cotija, queso fresco), crumbled for topping | 4 oz
 
 ## Instructions
-
-### Prep (interleave w/ cooking steps as needed)
-- Thinly slice the garlic & onions.
-- Drain & rinse the beans.
-- Veggies: Dice up the stems into small pieces and reserve them in a separate bowl. Tear or chop the leaves into bite-size pieces.
-- Thinly slice the preserved lemons.
-- Finely chop the parsley/cilantro and crumble the cheese for topping.
-
-### Cook
-1. Heat 1-1/2 cups olive oil in large pot over medium heat. Add garlic and onion. Cook until lightly browned, ~5 minutes.
-2. Stir in the harissa and cook ~2 minutes until the oil is a vibrant orange color.
-3. Add beans. Lightly crush some of the beans.
-4. Stir in the broth and veggie stems. Re-season as needed. Simmer until you've reached your desired consistency, 15-25 minutes.
-5. Stir in the veggie leaves, preserved lemon, and fresh lemon juice. Cook just a bit until the leaves are how you like them.
-6. Season with salt & pepper to taste.
-7. Serve with parsley and feta.
+1. Thinly slice the garlic & onions.
+1. Heat olive oil in large pot over medium heat. Add garlic and onion. Cook until lightly browned, ~5 minutes.
+1. Prep: Drain & rinse the beans. Reconstitute the broth if needed. Start chopping the veggie stems.
+1. Stir the harissa into the pot and cook ~2 minutes until the oil is a vibrant orange color.
+1. Add beans. Lightly crush the beans with the back of a spoon for a more creamy consistency.
+1. Stir in the broth and veggie stems. Simmer until you've reached your desired consistency, 15-25 minutes.
+1. Thinly slice the preserved lemon. Tear/chop the veggie leaves.
+1. Stir in the veggie leaves and preserved lemon. You can optionally add fresh lemon juice too. Cook just a bit until the leaves are how you like them.
+1. Season with salt & pepper to taste.
+1. Serve with parsley and crumbled hard cheese on top.
