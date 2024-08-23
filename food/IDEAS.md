@@ -1,0 +1,1 @@
+- [aloo gobi](https://ministryofcurry.com/aloo-gobhi-instant-pot/#recipe)
