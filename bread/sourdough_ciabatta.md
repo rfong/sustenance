@@ -21,16 +21,17 @@ with additional tips in [this comment](http://www.thefreshloaf.com//node/3088/bl
 
 ## Process
 
-Note: The dough will triple in size during initial stretch-n-folds. You will need at least a 3-quart container for the recipe as given. I typically do a double batch in an 8-quart clear tub from the restaurant supply store, and it rises from 2 quarts initially to the 6 quart line at max rise.
+Note: The dough will triple in size during initial stretch-n-folds. You will need at least a 4-quart container for the 500g recipe. I usually do a double batch in an 8-quart clear tub from the restaurant supply store. It rises from 2 quarts initially to a bit over the 6 quart line at max rise.
 
-### Ingredients
+### Ingredients for 97% hydration ciabatta
 
-*95% hydration dough*
-- 500g white bread flour
-- 475g water, lukewarm (~110F)
-- 20g active sourdough starter
-- 2 tsp instant yeast
-- 15g salt (about 1 Tbsp kosher salt)
+| **Ingredient** | **Standard** (feeds a few) | **Doubled** (feeds a party) |
+| ----------- | ----------- | ----------- |
+| white high-gluten bread flour | 500g | 1000g |
+| lukewarm water (90-110F) | 485g | 970g |
+| instant yeast | 2 tsp | 4 tsp |
+| salt | 15g (about 1 Tbsp kosher) | 30g |
+| optional: active sourdough starter | 20g | 40g |
 
 ### Dough development
 
@@ -46,9 +47,9 @@ Set stretch&fold intervals so that the dough doubles in volume by the first roun
 If there is room in the fridge, cover and store in the fridge for ideally 18 hours to develop additional flavor. No less than 8 hours. No more than 24 hours.
 If there is not room in the fridge ;( Give it more final proofing time.
 
-Turn out dough onto a well floured surface. Split the dough into 2-4 pieces.
-- Split in 2 pieces, this will make long, large loaves that are good for slicing and dipping to share with a group of friends.
-- Split in 4 pieces, this will make more traditionally sized loaves that are great for a large sandwich.
+Turn out dough onto a LARGE well floured surface (THE GLOOP WILL SPREAD). Split the dough into 1-3 pieces if using the 500g recipe, or 2-6 pieces if using the 1000g recipe.
+- Fewer loaves: this will make long, large loaves that are good for slicing and dipping to share with a group of friends.
+- More loaves: this will make more traditionally sized loaves that are great for a large sandwich.
 
 OPTIONAL: If you choose to counter proof the shaped dough for 1-2 more hours, cover it with something that won't stick to it, like mixing bowls. I prefer to skip this final proofing step for convenience because the gloop gets EVERYWHERE.
 
