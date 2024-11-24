@@ -12,5 +12,7 @@ eight treasure soup(八宝汤)
 - japanese sweet potato
 
 soak beans & seeds overnight with salt, then discard the soaking water
+
 add 8 cups cold filtered water and dash of salt
+
 instant pot high pressure 20 min
