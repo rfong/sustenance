@@ -42,7 +42,7 @@ Get a bowl of water to dip your hands in. You will need continuously wet hands a
 
 Perform 3 stretch & folds to build more tension. You don't need to develop this stuff until it's perfectly round like country bread, it just needs to be coherent and not tear when you stretch it. 
 
-Set stretch&fold intervals so that the dough doubles in volume by the first round and triples in volume by the second round. For me this is about 1hr per stretch&fold in a 70-75F kitchen. It should be tripling in volume by the end if your kitchen is warm. If the kitchen is not warm enough, I make a little dough-sized steam room by putting in cups of boiling water and inverting a big tub/bowl over the entire affair.
+Set stretch&fold intervals so that the dough doubles in volume by the first round and triples in volume by the second round. For me this is about 1hr per stretch&fold in a 70-75F kitchen. It should be tripling in volume by the end if your kitchen is warm. If the kitchen is not warm enough, I make a little dough-sized steam room by sitting open cups of boiling water next to the dough container, and inverting a big tub/bowl over the entire affair.
 
 If there is room in the fridge, cover and store in the fridge for ideally 18 hours to develop additional flavor. No less than 8 hours. No more than 24 hours.
 If there is not room in the fridge ;( Give it more final proofing time.
