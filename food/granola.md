@@ -1,6 +1,7 @@
 # [chunky granola with almond flour](https://sallysbakingaddiction.com/maple-almond-granola-clusters-vegan/)
 
 why is store granola $15/lb and so sweet?? make your own for $3/lb thanks
+
 changes from original recipe: halved the sugar, swapped out syrup for honey
 
 ## ingredients
