@@ -19,4 +19,4 @@ this fills about 2 quart jars, which is roughly a week's supply of granola for m
 ## methodology
 - mix dry, whisk sugar/oil/liquids over medium heat, combine
 - press everything into even layer on parchment-paper-lined pan
-- bake at 300F, 40 minutes, rotate every 10
+- bake at 300F, 40 minutes, rotate midway
