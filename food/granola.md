@@ -4,6 +4,8 @@ why is store granola so sweet and so expensive?? make your own for $3/lb thanks
 
 changes from original recipe: halved the sugar, swapped out syrup/sugar for honey, added flax seeds
 
+this fills about 2 quart jars, which is roughly a week's supply of granola for me.
+
 ## ingredients
 - 3 cups rolled oats
 - 3/4 cup almond flour/meal
