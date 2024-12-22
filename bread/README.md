@@ -4,12 +4,13 @@
 + [sourdough_tartine.md](sourdough_tartine.md) - Tartine-style sourdough. Not too sour, tender and holey crumb but not too holey, crunchy crust, very beautiful when done correctly. Tasty but effortful; requires a solid day of babysitting (about 8 hrs on/off) and then the next morning (~1.5 hrs).
 + [ny_sourdough_bagels.md](ny_sourdough_bagels.md) - Adaptation of Peter Reinhart's NY-style sourdough bagels to work with less fridge space.
 + [flatbread.md](flatbread.md) - Quick and simple flatbread mountain party pile for those who crave flatbread. Requires a powerful range hood and good ventilation. I have definitely set off the smoke alarm before. Best with 1-2 helpers.
++ [seedy_bread.md](seedy_bread.md) - Hearty moist seedy bread with some whole wheat and rye flour! Crowd pleaser. Similar amount of work to ciabatta, longer primary fermentation. Uses a dutch oven.
 
 ## use cases
-- Want to quickly produce a very large volume of inexpensive and delicious calories for a potluck/picnic? Make high-hydration ciabatta or pain l'ancienne.
+- Want to quickly produce a very large volume of inexpensive and delicious calories for a potluck/picnic? Make high-hydration ciabatta, pain l'ancienne, or seedy bread.
 - Want to punish yourself while simultaneously deepening your understanding of bread chemistry and perfecting your mastery over bread variables? Try Tartine-style sourdough.
 - Want to do an interactive bread activity with friends? Try flatbread mountain (quick & super easy), soft pretzels (medium speed & ease), or sourdough bagels (prep required).
-- "I don't have time to make bread": I made pain l'ancienne 2-3 times a week while working 90 hrs/week as an MIT undergrad with a $100-120/mo food budget, so I'm pretty confident that anyone with an oven and a fridge can fit this bread into their lifestyle. It really is that low-effort.
+- "I don't have time to make bread": I made pain l'ancienne 2-3 times a week while working 90 hrs/week as an MIT undergrad with a $100-120/mo food budget, so I'm pretty confident that anyone with an oven and a fridge can fit this bread into their lifestyle. It really is that low-effort. And it's nice for a student budget that you can get bread flour from restaurant supply stores for $0.40/lb!
 
 ## resources
 
@@ -33,7 +34,7 @@
 
 + reusable bowl wrap (I have a Bee's Wrap, which isn't remotely airtight, so I tie it down with a piece of paracord)
 + parchment paper or 500F-resistant sheet liner (can also use cornmeal/semolina/grease)
-+ Dutch oven (can also use combo cooker or upside-down oven-safe pot)
++ Dutch oven (can also use combo cooker or some other upside-down oven-safe pot to trap steam if you don't have one)
 + shaped proofing vessel (can use floursack towels + mixing bowl, or banneton, etc)
 + cooling rack
 + probe thermometer
