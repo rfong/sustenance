@@ -9,7 +9,7 @@ changes from original recipe: halved the sugar, swapped out syrup/sugar for hone
 - 3/4 cup almond flour/meal
 - 1/2 tsp salt
 - 3/4 c chopped unsalted nuts (I use cashews)
-  1/4 cup flax seeds
+- 1/4 cup flax seeds
 - 1/3 c coconut oil
 - 1 tsp vanilla extract
 - 1/3 cup honey (or whatever sticky thing you prefer)
