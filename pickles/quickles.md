@@ -33,7 +33,7 @@ Ume vinegar and red onion are both extremely strong flavors, but they somehow me
 - Ume plum vinegar
 - red onions -- 2 large ones or 3-4 small ones
 - 1 small daikon (I don't always include this)
-- 2-3L glass jar
+- quart glass jar
 
 Slice the onions and daikon into bite-sized pieces. Pour in the ume plum vinegar and top off with water if you don't have enough. Liquid should be at least 50% vinegar. Refrigerate and wait at least 2-3 days to eat.
 
