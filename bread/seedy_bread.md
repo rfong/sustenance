@@ -15,11 +15,11 @@ changes: got rid of sugar, did 3 stretch & folds
 
 ## methodology
 - mix yeast in lukewarm water. mix dry ingredients separately. combine thoroughly
-- cover & rest dough 12-20 hours (I like 18 hours)
+- cover & rest dough 12-20 hours (I like 18 hours) at room temp. DO NOT exceed 20 hours or it will taste like flat soda.
 - USE WET HANDS, stretch & fold, rest 30-60m. repeat stretch & folds more times if needed
 - preheat dutch oven 450F, start preheating 30m in advance
-- drizzle oil in the pan
-- top dough with extra seeds, drizzle of oil, and a pinch of flaky sea salt
+- put parchment paper in the bottom to prevent sticking. (could also try cornmeal but I haven't done this yet)
+- dump in dough, top dough with extra seeds, drizzle of oil, and a pinch of flaky sea salt
 - bake 30m covered, 15m uncovered
 
 ## notes for attempt 1
