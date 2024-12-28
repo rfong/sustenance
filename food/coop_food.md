@@ -30,7 +30,7 @@ lentil curry:
 start an amount of rice in the rice cooker, maybe add cilantro/lime
 
 - bean base: saute onions, add black beans, dash of liquid smoke, [vegan bacon salt](../spices/vegan_bacon_salt.md) maybe
-- gently heat a stack of tortillas ~1 minute each in a pan and store covered to retain heat
+- gently heat a stack of tortillas til steamy but still soft (~1 minute each) in a pan and store covered to retain heat
 - topping options: chopped cilantro, sour cream, diced red onions, shredded cheese, guacamole, lime wedges, hot sauce
 
 ## stirfry
@@ -44,18 +44,26 @@ protein base: high-protein (pre-pressed) tofu, cut into little sticks or triangl
 - if I'm feeling spicy: tofu sticks with julienned ginger and thai chili paste
 - if I'm feeling crunchy: toasty tofu triangles with Taiwanese "pepper salt for fried chicken" seasoning (works best in cast iron with potato starch for extra crisp)
 
-veggies:
-- heat up a splash of neutral oil and a drizzle of sesame oil
-- saute julienned ginger & optionally minced garlic if you have time
-- add chopped chinese dark leafy greens; my favorites are chrysanthemum greens, on choy, yin choy. other solid options include bok choy, gai lan, spinach
-- (sometimes if I'm feeling purple I'll do purple cabbage lightly stir-fried with fennel seeds instead)
+veggie options
+- chinese greens: saute julienned ginger in a splash of neutral oil and a drizzle of sesame oil. stirfry chopped dark leafy greens. my favorites are chrysanthemum greens, on choy, or yin choy. other solid options include bok choy, gai lan, spinach
+- simple 1-2-3 eggplant: stirfry chinese eggplant chonks until bright purple, add 1-2-3 ratio of chinkiang vinegar, shaoxing cooking wine, and normal-strength soy sauce, simmer until fork tender, drizzle with a tiny bit of honey
+- purple cabbage: chop thinly and lightly stir-fry with fennel seeds. check if someone in the audience dislikes fennel seeds first
 
 serve with side/garnish of premade east asian pickles (I usually default to 福神漬, 柴漬け, pickled mustard greens, pickled ginger, or kimchi)
 
+### a slightly more laborious eggplant dish
+
+this is simplified from [Omnivore's Cookbook](https://omnivorescookbook.com/chinese-eggplant-with-garlic-sauce), which in turn looks like a simplified version of [Hannah Che's fish-fragrant eggplant recipe](https://www.simplyrecipes.com/hannah-che-fish-fragrant-eggplant-6890589). I have made Hannah Che's version once and it is unbelievably good, but very laborious.
+
+- pre-soak chinese eggplant chonks in salted water for 15+ min. pat dry. pan fry til golden and set aside
+- make a sauce from dark soy sauce watered down to normal soy sauce level, a spoonful of honey or sugar, and a spoonful of cornstarch
+- stirfry garlic, ginger, scallions
+- throw in the eggplant and sauce and stir til glossy and thickened a bit
+
 ### thai curry variant
 
-- use a can of coconut cream and a few stalks of smashed lemongrass when you make the rice
-- simmer the protein and veggies together in thai curry paste and more coconut cream with broth
+- use a can of coconut cream and a few stalks of smashed lemongrass in the rice cooker. remove the lemongrass before serving
+- simmer the protein and veggies together in thai curry paste, more lemongrass, and more coconut cream with broth
 
 ## baked/roasted candy of the earth
 
