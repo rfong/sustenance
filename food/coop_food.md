@@ -21,7 +21,7 @@ classic western soup base:
 
 lentil curry:
 - saute on low heat in a generous amount of coconut oil: minced garlic, diced onions, julienned ginger, curry powder, turmeric, black pepper
-- add 3+ cups lentils, as much coconut cream as you are willing to buy, and pad out the rest of the fluid volume with broth
+- add 3+ cups lentils, and broth at a 3:1 liquid:lentils ratio. for extra luxury you can sub in coconut cream for some of the liquids.
 - simmer ~30 min, salt to taste
 - top with chopped cilantro and/or tangy yogurt
 
