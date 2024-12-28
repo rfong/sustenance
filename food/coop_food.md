@@ -74,7 +74,7 @@ roasted carrots & beets
 - preheat oven 375F
 - boil whole small carrots in salted water until barely tender, about 5 min
 - drizzle with olive oil and roast until caramelized, about 40 min, turning midway
-- dressing: whisk black sesame paste, olive oil, lemon juice, salt
+- dressing: whisk black sesame paste, olive oil, lemon juice, salt. you want a smooth pourable consistency.
 - optionally garnish with parsley and lemon zest
 
 roasted brussels sprouts
