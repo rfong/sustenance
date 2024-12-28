@@ -4,6 +4,10 @@ i.e., feeding balanced macronutrients to a large quantity of people with assorte
 
 see also [8 treasure soup](eight_treasure_soup.md)
 
+when I say "an amount of rice", that means:
+- if you don't want leftover rice, use 1/3 to 1/2 dry cup per person depending on your audience's rice interest
+- if you want to make fried rice tomorrow, fill the rice cooker to the max
+
 ## lentil soup
 
 start an amount of rice in the rice cooker (I usually throw in a glob of coconut oil)
@@ -11,7 +15,7 @@ start an amount of rice in the rice cooker (I usually throw in a glob of coconut
 classic western soup base:
 - saute minced garlic & diced onion in large pot
 - add diced celery & carrots
-- dump in 3+ cups lentils, cumin, coriander, and enough broth to cover everything
+- dump in 3+ cups lentils, cumin, coriander, and enough broth to cover everything. lentils want a 3:1 water ratio.
 - optional: add lemon juice & zest
 - simmer ~30 min, salt to taste
 
@@ -35,16 +39,23 @@ this doesn't scale well past 8 people unless you have two woks and/or a sous che
 
 start an amount of rice in the rice cooker, add a glob of coconut oil
 
-protein base:
-- saute julienned ginger and minced garlic
-- add high protein tofu, cut into little sticks or cubes
-- add sauce. I usually do vegan oyster sauce if I can't think of something
+protein base: high-protein (pre-pressed) tofu, cut into little sticks or triangles
+- if I'm feeling lazy: stirfry quickly in vegan oyster sauce
+- if I'm feeling spicy: tofu sticks with julienned ginger and thai chili paste
+- if I'm feeling crunchy: toasty tofu triangles with Taiwanese "pepper salt for fried chicken" seasoning (works best in cast iron with potato starch for extra crisp)
 
 veggies:
-- saute julienned ginger
-- add chopped chinese veggies
+- heat up a splash of neutral oil and a drizzle of sesame oil
+- saute julienned ginger & optionally minced garlic if you have time
+- add chopped chinese dark leafy greens; my favorites are chrysanthemum greens, on choy, yin choy. other solid options include bok choy, gai lan, spinach
+- (sometimes if I'm feeling purple I'll do purple cabbage lightly stir-fried with fennel seeds instead)
 
-serve with side of premade east asian pickles (I usually default to 福神漬, 柴漬け, pickled mustard greens, pickled ginger, or kimchi)
+serve with side/garnish of premade east asian pickles (I usually default to 福神漬, 柴漬け, pickled mustard greens, pickled ginger, or kimchi)
+
+### thai curry variant
+
+- use a can of coconut cream and a few stalks of smashed lemongrass when you make the rice
+- simmer the protein and veggies together in thai curry paste and more coconut cream with broth
 
 ## baked/roasted candy of the earth
 
