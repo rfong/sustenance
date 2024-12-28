@@ -107,3 +107,11 @@ roasted brussels sprouts
 - carefully drain potatoes and mix with the herb infused oil. make sure to rough up the potatoes
 - roast 20 min, stir, continue roasting until crispy brown (another 30-40 min)
 - add the garlic/rosemary from before, add salt & pepper to taste
+
+## salads that are a meal
+
+### noah's epic colorful salad
+
+- cut beets into bite-sized chunks and bake 425F until fork-tender
+- baby spinach, carrots, canned red kidney beans, dried apricots/figs, a small amount of purple cabbage, walnuts, pumpkin seeds. chop any larger ingredients into small-bite-sized pieces
+- combine all and optionally add goat cheese
