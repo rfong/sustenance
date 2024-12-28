@@ -72,11 +72,12 @@ this is simplified from [Omnivore's Cookbook](https://omnivorescookbook.com/chin
 - gently poke potatoes all over with fork, brush with oil, cover in foil and bake at 325F for 70-90 min
 - plan for 15 minutes for potatoes to cool down after coming out of oven
 
-roasted carrots & beets
+roasted beets & carrots
 - scrub with tawashi
 - cut them up into whatever size makes sense for the amount of prep time you have
 - toss with oil
 - bake at 425F until fork-tender, probably 30 minutes?
+- if pressed for time, do all the beets first, because the carrots can be more on the raw side
 
 [roasted carrots w/ black sesame dressing](https://www.seriouseats.com/roasted-carrots-black-sesame-dressing-recipe)
 - preheat oven 375F
