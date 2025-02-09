@@ -12,16 +12,25 @@ when I say "an amount of rice", that means:
 
 start an amount of rice in the rice cooker (I usually throw in a glob of coconut oil)
 
+for broth, I usually use Better Than Bouillon's "No Chicken" base. I always undersalt a bit while cooking and then salt to taste after it's done cooking.
+
+dark purple stew:
+- saute minced garlic, diced shallot, & diced white/yellow onion in instant pot
+- cumin and coriander
+- dump in 3+ cups lentils, and broth at a 3:1 ratio
+- add diced purple carrots, 1-2 diced japanese sweet potatoes, 1-2 bunches kale
+
 classic western soup base:
 - saute minced garlic & diced onion in large pot
 - add diced celery & carrots
-- dump in 3+ cups lentils, cumin, coriander, and enough broth to cover everything. lentils want a 3:1 water ratio.
+- cumin and coriander
+- dump in 3+ cups lentils, and broth at a 3:1 ratio
 - optional: add lemon juice & zest
-- simmer ~30 min, salt to taste
+- simmer ~30 min
 
 lentil curry:
 - saute on low heat in a generous amount of coconut oil: minced garlic, diced onions, julienned ginger, curry powder, turmeric, black pepper
-- add 3+ cups lentils, and broth at a 3:1 liquid:lentils ratio. for extra luxury you can sub in coconut cream for some of the liquids.
+- add 3+ cups lentils, and broth at a 3:1 ratio. for extra luxury you can sub in coconut cream for some of the liquids.
 - simmer ~30 min, salt to taste
 - top with chopped cilantro and/or tangy yogurt
 
