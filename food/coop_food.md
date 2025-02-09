@@ -14,13 +14,13 @@ start an amount of rice in the rice cooker (I usually throw in a glob of coconut
 
 for broth, I usually use Better Than Bouillon's "No Chicken" base. I always undersalt a bit while cooking and then salt to taste after it's done cooking.
 
-dark purple stew:
+### dark purple stew
 - saute minced garlic, diced shallot, & diced white/yellow onion in instant pot
 - cumin and coriander
 - dump in 3+ cups lentils, and broth at a 3:1 ratio
 - add diced purple carrots, 1-2 diced japanese sweet potatoes, 1-2 bunches kale
 
-IRON STEW (todo):
+### IRON STEW (todo)
 mix and match high-iron ingredients as needed
 - beluga/black lentils (8 mg non-heme iron per 1/2 cup uncooked)
 - Trader Joe's high protein tofu (6.75 mg iron per half block)
@@ -31,7 +31,7 @@ mix and match high-iron ingredients as needed
 - note that all iron contents listed are non-heme iron, which requires 1.8x more than your demographic's standard DV for bioavailability reasons; if you are not vegan with a period, then it is extremely overkill to use all of these ingredients at once
 - also note that I am a massive eater, so if you eat a normal amount you will want to recalculate these serving sizes
 
-classic western soup base:
+### classic western soup base (whatever that means)
 - saute minced garlic & diced onion in large pot
 - add diced celery & carrots
 - cumin and coriander
@@ -39,7 +39,7 @@ classic western soup base:
 - optional: add lemon juice & zest
 - simmer ~30 min
 
-lentil curry:
+### lentil curry
 - saute on low heat in a generous amount of coconut oil: minced garlic, diced onions, julienned ginger, curry powder, turmeric, black pepper
 - add 3+ cups lentils, and broth at a 3:1 ratio. for extra luxury you can sub in coconut cream for some of the liquids.
 - simmer ~30 min, salt to taste
