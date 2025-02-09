@@ -25,16 +25,9 @@ The flour, coconut oil, and sugar are necessary for structural integrity. You ca
 - bake at 300F, 40 minutes, rotate midway
 
 ## variant todo: IRON GRANOLA
-for debugging my low iron
-- 3 cups rolled oats
-- 3/4 cup almond/oat flour
-- 1/2 tsp salt
-- 2/3 cups chopped raw cashews
+add or sub for other nuts
 - 2/3 cups raw pumpkin seeds (4.4 mg iron per 100g)
 - 1/2 cup black sesame seeds (14.6 mg iron per 100g)
 - 1/4 cup flax seeds (5.7 mg iron per 100g)
-- 2/3 cup coconut oil
-- 1/4-1/3 cup honey
-- 1 tsp vanilla extract
 
 If you're eating granola at the same rate as me, this adds 3.1 mg of non-heme iron per serving.
