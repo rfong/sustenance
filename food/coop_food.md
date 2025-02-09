@@ -24,8 +24,8 @@ IRON STEW (todo):
 mix and match high-iron ingredients as needed
 - beluga/black lentils (8 mg non-heme iron per 1/2 cup uncooked)
 - Trader Joe's high protein tofu (6.75 mg iron per half block)
+- spinach (6.4 mg iron per 100g cooked)
 - chickpeas (4 mg iron per 1 cup cooked)
-- spinach (2.7 mg iron per 100g uncooked)
 - red jujubes, pitted (2.3 mg iron per 33g dried, about 6 big jujubes)
 - beets (1.8 mg iron per 100g)
 - note that all iron contents listed are non-heme iron, which requires 1.8x more than your demographic's standard DV for bioavailability reasons; if you are not vegan with a period, then it is extremely overkill to use all of these ingredients at once
