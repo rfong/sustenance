@@ -8,18 +8,19 @@ changes: halved the sugar, swapped out syrup/sugar for honey, added flax seeds a
 this fills about 2 quart jars, which is roughly a week's supply of granola for me (I'm usually supplementing it with nut butter, fruit, and/or yogurt for breakfast)
 
 ## ingredients
+Base ingredients:
 - 3 cups rolled oats
 - 3/4 cup almond flour
 - 1/2 tsp salt
-- 3/4 cup chopped unsalted nuts (I use cashews)
-- 1/4 cup flaxmeal
 - 1/3 cup coconut oil
 - 1/4-1/3 cup honey (or whatever sticky thing you prefer)
 - 1 tsp vanilla extract
 
-The flour, coconut oil, and sugar are necessary for structural integrity. You can substitute them for other things that will bind at room temperature. The nuts and flax seeds are just for fun, you can substitute whatever you want for them.
+For fun:
+- 3/4 cup chopped unsalted nuts (I use cashews)
+- 1/4 cup flaxmeal
 
-I tried substituting wheat flour and it came out too dry and powdery. Oat flour was okay. Almond flour has been the best so far.
+Flour: Almond flour has been the best so far. I tried substituting wheat flour and it came out too dry and powdery. Oat flour was okay.
 
 ## methodology
 - mix the dry stuff in one bowl, whisk sugar/oil/vanilla in a small saucepan over medium heat, combine everything
@@ -27,9 +28,10 @@ I tried substituting wheat flour and it came out too dry and powdery. Oat flour 
 - bake at 300F, 40 minutes, rotate midway
 
 ## variant: IRON GRANOLA
+- Use the same base ingredients as the original recipe
+- 1 cup black sesame seeds (14.6 mg iron per 100g)
 - 2/3 cups raw pumpkin seeds (8.8 mg iron per 100g)
 - 1 cup raw cashews (6 mg iron per 100g)
-- 1 cup black sesame seeds (14.6 mg iron per 100g)
 - 1/4 cup flaxmeal (5.7 mg iron per 100g)
 
 This yields 38.6 mg iron per granola batch, or 5.5-6.4 mg per serving.
