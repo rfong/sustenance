@@ -17,8 +17,10 @@ Base ingredients:
 - 1 tsp vanilla extract
 
 For fun:
-- 3/4 cup chopped unsalted nuts (I use cashews)
+- 3/4 cup chopped unsalted nuts/seeds
 - 1/4 cup flaxmeal
+
+Cost: $5-6.65/batch depending what nuts/seeds you use
 
 Flour: Almond flour has been the best so far. I tried substituting wheat flour and it came out too dry and powdery. Oat flour was okay.
 
@@ -43,6 +45,6 @@ wets:
 
 This yields 53.12 mg iron per granola batch, or 7.6-8.9 mg per serving.
 
-Cost: $9.28/batch
+Cost: $9.28/batch. More expensive but still cheaper than store granola or the cost of anemia
 
 - Trial 1: Tastes good. Still figuring out how much binder is needed to form clusters. Used about 1/2 cup coconut oil and 1/3 cup honey this time. Try going up to 3/4 cup coconut oil and 1/2 cup honey next time.
