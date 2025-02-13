@@ -43,4 +43,6 @@ wets:
 
 This yields 53.12 mg iron per granola batch, or 7.6-8.9 mg per serving.
 
+Cost: $9.28/batch
+
 - Trial 1: Tastes good. Still figuring out how much binder is needed to form clusters. Used about 1/2 cup coconut oil and 1/3 cup honey this time. Try going up to 3/4 cup coconut oil and 1/2 cup honey next time.
