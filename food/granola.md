@@ -28,12 +28,19 @@ Flour: Almond flour has been the best so far. I tried substituting wheat flour a
 - bake at 300F, 40 minutes, rotate midway
 
 ## variant: IRON GRANOLA
-- Use the same base ingredients as the original recipe
+- 3 cups rolled oats (4.4 mg iron per 100g)
+- 3/4 cup almond flour (3.7 mg iron per 100g)
+- 1/2 tsp salt
 - 1 cup black sesame seeds (14.6 mg iron per 100g)
 - 2/3 cups raw pumpkin seeds (8.8 mg iron per 100g)
 - 1 cup raw cashews (6 mg iron per 100g)
 - 1/4 cup flaxmeal (5.7 mg iron per 100g)
 
-This yields 38.6 mg iron per granola batch, or 5.5-6.4 mg per serving.
+wets:
+- 1/2 cup coconut oil
+- 1/3 cup honey (or whatever sticky thing you prefer)
+- 1 tsp vanilla extract
+
+This yields 53.12 mg iron per granola batch, or 7.6-8.9 mg per serving.
 
 - Trial 1: Tastes good. Still figuring out how much binder is needed to form clusters. Used about 1/2 cup coconut oil and 1/3 cup honey this time. Try going up to 3/4 cup coconut oil and 1/2 cup honey next time.
