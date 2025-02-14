@@ -1,6 +1,6 @@
 coop food
 ---
-i.e., feeding balanced macronutrients to a large quantity of people with assorted dietary restrictions in under 1.5 hours
+i.e., feeding balanced macronutrients to a large quantity of people with assorted dietary restrictions in under 1.5 hours and minimal kitchenware/cleanup
 
 see also [8 treasure soup](eight_treasure_soup.md)
 
@@ -10,26 +10,28 @@ when I say "an amount of rice", that means:
 
 ## lentil soup
 
-start an amount of rice in the rice cooker (I usually throw in a glob of coconut oil)
+start an amount of carb grain (probably rice or quinoa) in the rice cooker (I usually throw in a glob of coconut oil)
 
 for broth, I usually use Better Than Bouillon's "No Chicken" base. I always undersalt a bit while cooking and then salt to taste after it's done cooking.
 
 ### dark purple stew
 - saute minced garlic, diced shallot, & diced white/yellow onion in instant pot
 - cumin and coriander
-- dump in 3+ cups lentils, and broth at a 3:1 ratio
-- add diced purple carrots, 1-2 diced japanese sweet potatoes, 1-2 bunches kale
+- dump in 3+ cups lentils, and broth at a 3:1 ratio. for bonus darkness, use black lentils
+- add diced purple carrots, 1-2 diced japanese sweet potatoes, other purple potatoes, 1-2 bunches dinosaur kale
 
 ### IRON STEW (todo)
-mix and match high-iron ingredients as needed
+sub your choice of high-iron ingredients into a normal lentil stew as needed
 - beluga/black lentils (8 mg non-heme iron per 1/2 cup uncooked)
 - Trader Joe's high protein tofu (6.75 mg iron per half block)
 - spinach (6.4 mg iron per 100g cooked)
 - chickpeas (4 mg iron per 1 cup cooked)
 - red jujubes, pitted (2.3 mg iron per 33g dried, about 6 big jujubes)
 - beets (1.8 mg iron per 100g)
-- note that all iron contents listed are non-heme iron, which requires 1.8x more than your demographic's standard DV for bioavailability reasons; if you are not vegan with a period, then it is extremely overkill to use all of these ingredients at once
-- also note that I am a massive eater, so if you eat a normal amount you will want to recalculate these serving sizes
+
+note that all iron contents listed are non-heme iron, which requires 1.8x more than your demographic's standard DV for bioavailability reasons; if you are not vegan and consistently losing blood, then it is extremely overkill to use all of these ingredients at once. also note that I am a massive eater, so if you eat a normal amount your servings will be smaller.
+
+quinoa has 4.6 mg iron per 100g, so it can pair well as the carb if you feel like you STILL don't have enough iron.
 
 ### classic western soup base (whatever that means)
 - saute minced garlic & diced onion in large pot
