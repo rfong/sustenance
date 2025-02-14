@@ -17,7 +17,7 @@ for broth, I usually use Better Than Bouillon's "No Chicken" base. I always unde
 ### dark purple stew
 - saute minced garlic, diced shallot, & diced white/yellow onion in instant pot
 - cumin and coriander
-- dump in 3+ cups lentils, and broth at a 3:1 ratio. for bonus darkness, use black lentils
+- dump in 3+ cups lentils, and broth at a 3:1 ratio. I usually default to green, but for bonus darkness, use black lentils
 - add diced purple carrots, 1-2 diced japanese sweet potatoes, other purple potatoes, 1-2 bunches dinosaur kale
 
 ### IRON STEW (todo)
@@ -33,17 +33,19 @@ note that all iron contents listed are non-heme iron, which requires 1.8x more t
 
 quinoa has 4.6 mg iron per 100g, so it can pair well as the carb if you feel like you STILL don't have enough iron.
 
+black lentils are expensive, so I might stretch the supply by using some black and some green lentils.
+
 ### classic western soup base (whatever that means)
 - saute minced garlic & diced onion in large pot
 - add diced celery & carrots
 - cumin and coriander
-- dump in 3+ cups lentils, and broth at a 3:1 ratio
+- dump in 3+ cups green lentils, and broth at a 3:1 ratio
 - optional: add lemon juice & zest
 - simmer ~30 min
 
 ### lentil curry
 - saute on low heat in a generous amount of coconut oil: minced garlic, diced onions, julienned ginger, curry powder, turmeric, black pepper
-- add 3+ cups lentils, and broth at a 3:1 ratio. for extra luxury you can sub in coconut cream for some of the liquids.
+- add 3+ cups red lentils, and broth at a 3:1 ratio. for extra luxury you can sub in coconut cream for some of the liquids.
 - simmer ~30 min, salt to taste
 - top with chopped cilantro and/or tangy yogurt
 
