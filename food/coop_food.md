@@ -29,7 +29,7 @@ sub your choice of high-iron ingredients into a normal lentil stew as needed
 - red jujubes, pitted (2.3 mg iron per 33g dried, about 6 big jujubes)
 - beets (1.8 mg iron per 100g)
 
-note that all iron contents listed are non-heme iron, which requires 1.8x more than your demographic's standard DV for bioavailability reasons; if you are not vegan and consistently losing blood, then it is extremely overkill to use all of these ingredients at once. also note that I am a massive eater, so if you eat a normal amount your servings will be smaller.
+note that all iron contents listed are non-heme iron, which requires 1.8x more than your demographic's standard DV for bioavailability reasons; if you are not vegan and consistently losing blood for some reason (like a period), then it is extremely overkill to use all of these ingredients at once. also note that I am a massive eater, so if you eat a normal amount your servings will be smaller.
 
 quinoa has 4.6 mg iron per 100g, so it can pair well as the carb if you feel like you STILL don't have enough iron.
 
