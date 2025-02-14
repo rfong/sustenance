@@ -13,7 +13,7 @@ Base ingredients:
 - 3/4 cup almond flour
 - 1/2 tsp salt
 - 1/3 cup coconut oil
-- 1/4-1/3 cup honey (or whatever sticky thing you prefer)
+- 1/4-1/3 cup honey/sugar/syrup
 - 1 tsp vanilla extract
 
 For fun:
@@ -40,7 +40,7 @@ Flour: Almond flour has been the best so far. I tried substituting wheat flour a
 
 wets:
 - 1/2 cup coconut oil
-- 1/3 cup honey (or whatever sticky thing you prefer)
+- 1/3 cup honey/sugar/syrup
 - 1 tsp vanilla extract
 
 This yields 53.12 mg iron per granola batch, or 7.6-8.9 mg per serving.
