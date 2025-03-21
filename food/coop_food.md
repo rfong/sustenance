@@ -10,17 +10,33 @@ when I say "an amount of rice", that means:
 
 ## lentil stew
 
-start an amount of carb grain (probably rice or quinoa) in the rice cooker (I usually throw in a glob of coconut oil)
+sized for a 10 cup instant pot. my water ratios are targeting a thick, solid stew consistency that can be eaten with chopsticks
 
 for broth, I usually use Better Than Bouillon's "No Chicken" base. I always undersalt a bit while cooking and then salt to taste after it's done cooking.
 
-my water ratios are targeting a thick, solid stew consistency
+don't forget to start an amount of grain in the rice cooker to accompany the stew
+- for short-grain rice, I add a glob of coconut oil
+- for couscous (prefer pearled), quinoa, or something else, I use broth
 
 ### dark purple stew
+for when you crave the purple flavor
 - saute minced garlic, diced shallot, & diced white/yellow onion in instant pot
 - cumin and coriander
-- dump in 3+ cups lentils, and broth at a 3:1 ratio. I usually default to green, but for bonus darkness, use black lentils
-- add diced purple carrots, 1-2 diced japanese sweet potatoes, other purple potatoes if you have them, 1-2 bunches dinosaur kale
+- 3 cups lentils (I like a 50/50 mix of green and black lentils)
+- 9 cups broth
+- diced purple carrots
+- 1-2 japanese sweet potatoes, diced
+- other purple potatoes if you have them
+- 1-2 bunches dinosaur kale
+
+### sweet potato chickpea stew
+this comes out comforting, starchy, autumnal, with a nice chewiness from the dried chickpeas
+- 1.5 cups black lentils
+- 1.5 cups dried chickpeas
+- 7 cups broth
+- 2 japanese sweet potatoes, diced
+- 1 western sweet potato
+- cumin and coriander
 
 ### IRON STEW
 sub your choice of high-iron ingredients into a normal lentil stew as needed
@@ -31,12 +47,12 @@ sub your choice of high-iron ingredients into a normal lentil stew as needed
 - red jujubes, pitted (2.3 mg iron per 33g dried, about 6 big jujubes)
 - beets (1.8 mg iron per 100g)
 
-notes:
+iron notes:
 - the ingredients listed are all vegan non-heme iron, which requires 1.8x more than your demographic's standard DV for bioavailability reasons than heme iron does
 - note that I am a massive eater, so if you eat a normal amount your servings will be smaller
 - if you are not BOTH vegan AND consistently losing blood for some reason (like a period), then it is extremely overkill to use all of these ingredients at once.
 - quinoa has 4.6 mg iron per 100g, so it can pair well as the carb if you feel like you STILL don't have enough iron.
-- black lentils are expensive, so I stretch the supply by using a mix of black and green. green lentils have half the iron.
+- black lentils are expensive, so I often stretch the supply by using a mix of black and green. green lentils have half the iron.
 
 ### classic western stew base (whatever that means)
 - saute minced garlic & diced onion in large pot
@@ -44,7 +60,7 @@ notes:
 - cumin and coriander
 - dump in 3+ cups green lentils, and broth at a 3:1 ratio
 - optional: add lemon juice, zest, and a bay leaf
-- simmer ~30 min
+- simmer or instant pot ~30 min
 
 ### lentil curry
 - saute on low heat in a generous amount of coconut oil: minced garlic, diced onions, julienned ginger, curry powder, turmeric, black pepper
