@@ -2,7 +2,7 @@ coop food
 ---
 i.e., feeding balanced macronutrients to a large quantity of people with assorted dietary restrictions in under 1.5 hours and minimal kitchenware/cleanup
 
-see also [8 treasure soup](eight_treasure_soup.md)
+see also [8 treasure soup](eight_treasure_soup.md), [kitchari](kitchari.md)
 
 when I say "an amount of rice", that means:
 - if you don't want leftover rice, use 1/3 to 1/2 dry cup per person depending on your audience's rice interest
