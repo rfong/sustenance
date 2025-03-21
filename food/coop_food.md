@@ -1,6 +1,6 @@
 coop food
 ---
-i.e., feeding balanced macronutrients to a large quantity of people with assorted dietary restrictions in under 1.5 hours and minimal kitchenware/cleanup
+i.e., feeding balanced macronutrients to a large quantity of people with assorted dietary restrictions, in under 1.5 hours and minimal kitchenware/cleanup, with random ingredients that may or may not be present in a house
 
 see also [8 treasure soup](eight_treasure_soup.md), [kitchari](kitchari.md)
 
