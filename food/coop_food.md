@@ -10,9 +10,9 @@ when I say "an amount of rice", that means:
 
 ## lentil stew
 
-sized for a 10 cup instant pot. my water ratios are targeting a thick, solid stew consistency that can be eaten with chopsticks
-
-for broth, I usually use Better Than Bouillon's "No Chicken" base. I always undersalt a bit while cooking and then salt to taste after it's done cooking.
+- sized for a 10 cup instant pot. my water ratios are targeting a thick, solid stew consistency that can be eaten with chopsticks.
+- for broth, I usually use Better Than Bouillon's "No Chicken" base. I always undersalt a bit while cooking and then salt to taste after it's done cooking.
+- for any water/broth used, I preheat the water up in an electric kettle because instant pots are slow at heating water.
 
 don't forget to start an amount of grain in the rice cooker to accompany the stew
 - for short-grain rice, I add a glob of coconut oil
@@ -33,7 +33,7 @@ for when you crave the purple flavor
 this comes out comforting, starchy, autumnal, with a nice chewiness from the dried chickpeas
 - 1.5 cups black lentils
 - 1.5 cups dried chickpeas
-- 7 cups broth
+- 7 cups broth, but this recipe also comes out really good with just water
 - 2 japanese sweet potatoes, diced
 - 1 western sweet potato
 - cumin and coriander
