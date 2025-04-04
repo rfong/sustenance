@@ -42,6 +42,6 @@ wets:
 - 1/2 cup honey/sugar/syrup
 - 1 tsp vanilla extract
 
-This yields 53 mg iron per granola batch. Each batch lasts me 7 days because I am a big eater, which comes out to 7.8 mg per serving. YMMV if you have a normal appetite.
+This yields 2.5 quarts of granola, at 53 mg iron per batch. Each batch lasts me 7 days because I am a big eater, which comes out to 7.8 mg per serving. YMMV if you have a normal appetite.
 
 Cost: ~$9.30/batch. More expensive but still a lot cheaper than store granola, or the cost of anemia.
