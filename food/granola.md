@@ -7,7 +7,9 @@ changes: halved the sugar, swapped out syrup/sugar for honey, added flax seeds a
 
 this fills about 2 quart jars, which is roughly a week's supply of granola for me (I'm usually supplementing it with nut butter, fruit, and/or yogurt for breakfast)
 
-notes on cluster formation: almond flour is the only flour I have tried so far that helps with cluster formation. if you sub wheat flour or oat flour, this recipe will come out dry and powdery and will NOT form clusters. let me know if you find other flours that work.
+notes on cluster formation:
+- almond flour is the only flour I have tried so far that helps with cluster formation. if you sub wheat flour or oat flour, this recipe will come out dry and powdery and will NOT form clusters. let me know if you find other flours that work.
+- my ideal granola is slightly less sweet than this, but if I lower the amount of honey, I can't form clusters :'(
 
 ## ingredients
 Base ingredients:
