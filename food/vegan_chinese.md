@@ -1,5 +1,5 @@
 vegan chinese food
 ---
 
-- [eight treasure soup](food/eight_treasure_soup.md)
-- [scallion pancakes](food/scallion_pancakes.md)
+- [eight treasure soup](eight_treasure_soup.md)
+- [scallion pancakes](scallion_pancakes.md)
