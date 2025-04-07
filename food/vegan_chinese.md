@@ -31,7 +31,7 @@ marinate 1/2 lb protein of choice in:
 - 2 Tbsp minced scallions
 - 1 Tbsp rice cooking wine
 
-the day of:
+### the day of
 - 1/2-1 cup fresh shiitake mushrooms, chopped finely. if using dried ones, presoak in hot water for 10+ minutes
 - preheat 3+ liters of water and pour it into a big pot. set your 10" bamboo steamer on top. DO NOT USE A WOK because it will not hold enough water for the entire steam ASK ME HOW I FOUND OUT
 - line the steamer with your leaf/leaves
