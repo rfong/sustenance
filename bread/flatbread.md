@@ -30,7 +30,7 @@ Prepare a floured work surface and/or an optional plate of flour to dredge the d
 
 Roll each piece into a ball, dredge lightly in flour, and shape into 4-6" rounds. 
 (It's fine if they aren't round; mine usually come out shaped like Australia.) 
-You can flatten them with your hands, but it's faster to use a French rolling pin (or equivalent cylinder).
+You can flatten them with your hands, but it's faster to use a French or Chinese rolling pin.
 
 ## Frying
 
