@@ -27,16 +27,18 @@
 + 500F-capable oven
 + baking sheets
 + large, wide vessel for mixing dough (I either use a wide metal mixing bowl or a clear 8-quart tub, both from the restaurant supply store)
-+ kitchen scale with tare function
 + bench scraper
 
-*useful, but can be improvised from other common kitchen implements*
+*necessary if you want to Follow A Recipe, but lots of home bakers just wing it*
++ kitchen scale with tare function
+
+*useful, but easy to improvise from random kitchen implements*
 
 + reusable bowl wrap (I have a Bee's Wrap, which isn't remotely airtight, so I tie it down with a piece of paracord)
-+ parchment paper or 500F-resistant sheet liner (can also use cornmeal/semolina/grease)
-+ Dutch oven (can also use combo cooker or some other upside-down oven-safe pot to trap steam if you don't have one)
-+ shaped proofing vessel (can use floursack towels + mixing bowl, or banneton, etc)
-+ cooling rack
++ parchment paper or 500F-resistant silicone sheet liner (can also use cornmeal/semolina, or grease although that has a higher chance of burning the bottom)
++ Dutch oven (or can use a combo cooker or any other upside-down oven-safe pot to trap steam, or you can just steam the oven)
++ shaped proofing vessel (can use floursack towels + mixing bowl, or banneton if you want that fancy look)
++ cooling rack (I did fine without one for the first decade of baking and finally got myself one as a little treat)
 + probe thermometer
 
-I'm used to fudging water temperatures from brewing tea all the time, so I don't usually use a thermometer. For example, if I want 100-110F water for my yeast, I'll do about 40% boiling water + 60% fridge water, i.e. `(212*0.4) + (50*0.6) ~= 115`, and assume I've lost several degrees by transference into a room temperature container.
+I'm used to fudging water temperatures from brewing tea all the time, so I don't use a thermometer. For example, if I want 100-110F water for my yeast, I'll do about 40% boiling water + 60% fridge water, i.e. `(212*0.4) + (50*0.6) ~= 115`, and assume I've lost several degrees by transference into a room temperature container. You can also be less exact and dunk your hand straight into the water. If it feels hot but you can leave your hand in the water without active pain, then it's probably somewhere in the 90-110F range.
