@@ -1,13 +1,21 @@
-# Tartine sourdough quickref
+# Tartine sourdough quickref & variants
 
-Quick reference for making 2 loaves of [sourdough_tartine.md](sourdough_tartine.md) if you have already done this a few times, calibrated the measurements to your kitchen environment, and no longer need the explanations.
+Quick reference for making [sourdough_tartine.md](sourdough_tartine.md) if you have already done this enough times to get it into your muscle memory, calibrated the measurements to your kitchen environment, and no longer need the detailed explanations.
 
-Use bread flour, defaulting to unbleached. You can substitute whole wheat up to 50%. Whole wheat requires a bit more hydration.
+## FLOUR
+Use bread flour, defaulting to unbleached. You can substitute some percentage of whole wheat, but it will require more hydration.
+
+May 2025: I recently got into unsifted fresh-milled whole wheat flour (which either needs to be used up within ~2 weeks or stored in the fridge/freezer). My favorite blend so far is 20% Khorasan and 80% hard red wheat. The usual 78% hydration approach worked well, but it would have been better with more hydration. Will report back on procedural changes.
 
 ## HYBRID VARIANT
 To couple a more intense savory bready flavor with the sourdough flavor, I like to do a hybrid variant between pain a l'ancienne and Tartine sourdough by adding an extended autolyse. 
 
 The only thing that changes is that I mix the post-levain flour with the post-levain water (reserving ~50g water to help with mixing later) up to half a day before the standard autolyse step. I usually line it up so that I'm starting the extended autolyse either when I mix the levain, or during the final starter feeding that runs overnight.
+
+## CUTTING CORNERS
+- I stopped using the flour-rubbed cloth liners for proofing.
+- I stopped flouring the dough during shaping.
+- I usually just do one large loaf instead of dividing the dough in two and re-shaping.
 
 ## INSTRUCTIONS
 
@@ -55,7 +63,7 @@ Flour a work surface. Divide the dough in half.
 
 Lightly flour each piece and shape into rounds with your pastry scraper.
 
-Let rest for 30 minutes. While you wait, line two bowls/baskets with clean flour sack towels. Rub flour into them. 
+Let rest for 30 minutes. Prepare proofing containers.
 
 #### FINAL SHAPING (10 min)
 
