@@ -50,7 +50,9 @@ I usually just use cold tap water and it's fine.
 
 ## Methodology
 
-This recipe is extremely simple and mindless to execute once you've done it a couple times. However, it's **important** to be familiar with all the reasoning so that you understand why some instructions are important and some are flexible, and so that you can debug when things don't go exactly as expected.
+This recipe is extremely simple and mindless to execute once you've done it a couple times. The steps can be summarized as: mix the dough, fridge it for 3 days, take it out until it doubles in size, then bake it until it looks good.
+
+However, it's **important** to be familiar with all the reasoning so that you understand why some instructions are important and some are flexible, and so that you can debug when things don't go exactly as expected.
 
 ### Dough (5-10 min)
 **1. Mix the dry ingredients thoroughly in a large bowl. Mix in the water quickly until fully incorporated.**
