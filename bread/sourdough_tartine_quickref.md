@@ -13,7 +13,6 @@ To couple a more intense savory bready flavor with the sourdough flavor, I like 
 The only thing that changes is that I mix the post-levain flour with the post-levain water (reserving ~50g water to help with mixing later) 3-12 hours before the standard autolyse step. For laziness reasons, I either line it up so that I'm either starting the extended autolyse when I mix the levain, or during the final starter feeding that runs overnight.
 
 ### Cutting corners
-- I stopped using the flour-rubbed cloth liners for proofing.
 - I stopped flouring the dough during shaping.
 - I just do one large loaf instead of dividing the dough in two and re-shaping. So I skip the middle cycle.
 - I may or may not add the salt at the start of the fermentolyse.
@@ -65,13 +64,13 @@ Flour a work surface. Divide the dough in half.
 
 Lightly flour each piece and shape into rounds with your pastry scraper.
 
-Let rest for 30 minutes. Prepare proofing containers.
+Let rest for 30 minutes. Prepare proofing containers and rub flour into liners.
 
 #### FINAL SHAPING (10 min)
 
-~~Dust dough with flour.~~ Flip and increase surface tension by gently pulling all four sides over into the middle with your pastry scraper.
+Flip and increase surface tension by gently pulling all four sides over into the middle with your pastry scraper.
 
-~~Dust with flour all over.~~ Place into proofing vessels with the seam side up, and cover.
+Dust with flour. Place into proofing vessels with the seam side up, and cover.
 
 ### PROOF
 
