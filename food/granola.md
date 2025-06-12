@@ -40,10 +40,13 @@ Cost: $5-6.65/batch depending what nuts/seeds you use
 - 1/4 cup flaxmeal (5.7 mg iron per 100g)
 
 wets:
-- 1/2 cup coconut oil
-- 1/2 cup honey/sugar/syrup
+- 2/3 cup coconut oil
+- 1/3 cup honey/sugar/syrup
 - 1 tsp vanilla extract
 
 This yields 2.5 quarts of granola, at 53 mg iron per batch. Each batch lasts me 7 days because I am a big eater, which comes out to 7.8 mg per serving. YMMV if you have a normal appetite.
 
 Cost: ~$9.30/batch. More expensive but still a lot cheaper than store granola, or the cost of anemia.
+
+## Other tasty variants I have improvised while out of the usual ingredients
+- Iron granola with walnuts instead of cashews, plus goji berries. Forgot the almond flour and let it cool for longer, and it still formed chunks.
