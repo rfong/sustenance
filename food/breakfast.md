@@ -20,12 +20,13 @@ I don't have a mini muffin pan, so I just spread these out on a normal sheet pan
 
 ### wet ingredients
 - 1/2 cup unsalted butter (can be vegan), melted
-- 1/4 cup honey, or substitute agave syrup to make it vegan
+- 1/4 cup raw honey, or substitute agave syrup to make it vegan
 - 1/2 cup oil (I prefer coconut)
 - 1 tsp vanilla extract
 
 ### methodology
 - preheat oven to 350F
-- combine the dries, combine the wets, mix all together
+- to combine the wets, I start by liquifying the butter and coconut oil together in a small saucepan. then wait to add the raw honey after it has cooled down a bit, to avoid cooking it.
+- combine the dries, then pour in the wets and mix
 - line a sheet pan with parchment paper or silpat, spread out the mixture evenly on it
 - bake for about 20 minutes or until top is lightly browned
