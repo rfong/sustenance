@@ -1,7 +1,7 @@
 - see also [granola.md](food/granola.md)
 - each recipe is calibrated to make about 3 quarts, or one week's worth of breakfast for me (a black hole in human form)
 
-# loose aussie bites
+# loose aussie bites (not too sweet)
 
 slightly modified from [thestayathomechef's recipe](https://thestayathomechef.com/homemade-aussie-bites/)
 
