@@ -1,0 +1,1 @@
+I am a brutally efficient coop lifer honed in the fires of MIT undergrad & used to feeding 10-40 people on the fly using random ingredients while sleep deprived and working 90 hrs/week. My stomach is larger on the inside. None of my recipes are fancy or elaborate. All of them are optimized for low effort and high flexibility to pantry chaos.
