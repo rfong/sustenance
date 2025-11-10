@@ -15,7 +15,7 @@ TODO: modify for starting from dehydrated beans
 | 1 medium sized onions (red or yellow), thinly sliced | 2 onions |
 | 2-3 Tbsp harissa | 4-6 Tbsp|
 | pinch of red pepper flakes (optional) | 2 pinches |
-| 45 oz canned white beans, such as cannellini, drained and rinsed | 90 oz |
+| 45 oz canned or pre-soaked white beans, such as cannellini | 90 oz |
 | 4 cups broth | 6-8 cups |
 | 1 large bunch kale or broccoli rabe | 2 large bunches |
 | 1 preserved lemon, thinly sliced | 2 preserved lemons |
