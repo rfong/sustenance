@@ -32,7 +32,7 @@ for when you crave the purple flavor
 ### sweet potato chickpea stew
 this comes out comforting, starchy, autumnal, with a nice chewiness from the dried chickpeas
 - 1.5 cups black lentils
-- 1.5 cups dried chickpeas
+- 1.5 cups dried chickpeas (either pre-soak them or you need to run the instant pot 2x as long)
 - 7 cups broth, but this recipe also comes out really good with just water
 - 2 japanese sweet potatoes, diced
 - 1 western sweet potato
