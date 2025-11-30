@@ -21,13 +21,14 @@ Wet:
 + a dash of cinnamon, if you want
 + 1/3 cup oil (I use canola)
 + 3/4 cup sour cream
+
+Mix separately:
 + 3 to 4 squishy bananas
 
 ### Methodology
 
-+ Mix the dry ingredients.
-+ Mix the wet ingredients in a separate bowl.
-+ Mix the wet ingredients thoroughly into the dry ones. A whisk helps.
++ Mix the dry ingredients. Mix the wet ingredients in a separate bowl. Combine thoroughly.
++ Then smash in the squishy bananas. Easiest to wait to do this after mixing the homogeneous ingredients.
 
 Bake for 350F for 50-60 minutes (or until a toothpick comes out clean).
 
