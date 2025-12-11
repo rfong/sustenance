@@ -8,7 +8,7 @@ when I say "an amount of rice", that means:
 - if you don't want leftover rice, use 1/3 to 1/2 dry cup per person depending on your audience's rice interest
 - if you want to make fried rice tomorrow, fill the rice cooker to the max
 
-## lentil stew
+## instant pot lentil stew
 
 - sized for a 10 cup instant pot. my water ratios are targeting a thick, solid stew consistency that can be eaten with chopsticks.
 - for broth, I usually use Better Than Bouillon's "No Chicken" base. I always undersalt a bit while cooking and then salt to taste after it's done cooking.
@@ -20,23 +20,24 @@ don't forget to start an amount of grain in the rice cooker to accompany the ste
 
 ### dark purple stew
 for when you crave the purple flavor
-- saute minced garlic, diced shallot, & diced white/yellow onion in instant pot
-- cumin and coriander
-- 3 cups lentils (I like a 50/50 mix of green and black lentils)
-- 9 cups broth
-- diced purple carrots
+- saute minced garlic, diced shallot, & diced white/yellow onion in at least half a cup of coconut oil in the instant pot
+- powdered cumin
+- coriander seed
+- 2.5 cups lentils (I like 50/50 black and green lentils)
+- 8 cups broth
 - 1-2 japanese sweet potatoes, diced
-- other purple potatoes if you have them
-- 1-2 bunches dinosaur kale
+- purple potatoes and purple carrots if you have them
+- 1-2 bunches dinosaur kale for roughage
 
 ### sweet potato chickpea stew
-this comes out comforting, starchy, autumnal, with a nice chewiness from the dried chickpeas
-- 1.5 cups black lentils
-- 1.5 cups dried chickpeas (either pre-soak them or you need to run the instant pot 2x as long)
-- 7 cups broth, but this recipe also comes out really good with just water
+this comes out comforting, starchy, autumnal, with a nice chewiness from the dried chickpeas. similar to Dark Purple Stew but with less allium flavor and less roughage
+- 1 cup black lentils
+- 1 cup dried chickpeas (either pre-soak them or you need to run the instant pot for at least an hour)
+- 1/2 cup mung beans
+- 8 cups broth, but this recipe also comes out really good with just water. if using just water, add about a tablespoon of salt
 - 2 japanese sweet potatoes, diced
-- 1 western sweet potato
-- cumin and coriander
+- optional: 1 western sweet potato
+- cumin, coriander, garam masala
 
 ### IRON STEW
 sub your choice of high-iron ingredients into a normal lentil stew as needed
@@ -63,18 +64,10 @@ iron notes:
 - simmer or instant pot ~30 min
 
 ### lentil curry
-- saute on low heat in a generous amount of coconut oil: minced garlic, diced onions, julienned ginger, curry powder, turmeric, black pepper
+- saute on low heat in a generous amount of coconut oil: minced garlic, diced onions, julienned ginger, curry powder, turmeric, black pepper, garam masala
 - add 3+ cups red lentils, and broth at a 3:1 ratio. for extra luxury you can sub in coconut cream for some of the liquids.
 - simmer ~30 min, salt to taste
 - top with chopped cilantro and/or tangy yogurt
-
-## taco bar (choose your own adventure)
-
-start an amount of rice in the rice cooker, maybe add cilantro/lime
-
-- bean base: saute onions, add black beans, dash of liquid smoke, [vegan bacon salt](../spices/vegan_bacon_salt.md) maybe
-- gently heat a stack of tortillas til steamy but still soft (~1 minute each) in a pan and store covered to retain heat
-- topping options: chopped cilantro, sour cream, diced red onions, shredded cheese, guacamole, lime wedges, hot sauce
 
 ## stirfry
 
@@ -159,3 +152,20 @@ roasted brussels sprouts
 - cut beets into bite-sized chunks and bake 425F until fork-tender
 - baby spinach, carrots, canned red kidney beans, dried apricots/figs, a small amount of purple cabbage, walnuts, pumpkin seeds. chop any larger ingredients into small-bite-sized pieces
 - combine all and optionally add goat cheese
+
+## choose your own adventure
+
+### taco bar
+
+start an amount of rice in the rice cooker, maybe add cilantro/lime
+
+- bean base: saute onions, add black beans, dash of liquid smoke, [vegan bacon salt](../spices/vegan_bacon_salt.md) maybe
+- gently heat a stack of tortillas til steamy but still soft (~1 minute each) in a pan and store covered to retain heat
+- topping options: chopped cilantro, sour cream, diced red onions, shredded cheese, guacamole, lime wedges, hot sauce
+
+### buddha bowls
+
+- carb base: fill the rice cooker to the max with quinoa, seasoned in a generous amount of coconut oil or butter
+- make any Baked/Roasted Candy Of The Earth
+- bake or stirfry some kind of seasoned tofu. a sort of glazed marinade probably works best with this flavor palette, not too salty
+- hearty fruity salad: get a bunch of dark leafy greens, chop into bite size pieces and season with vinaigrette (shake up a 1:3 ratio of ACV:oil, add some salt & pepper), add sunflower seeds and chopped apples or dried fruit, optional goat cheese
