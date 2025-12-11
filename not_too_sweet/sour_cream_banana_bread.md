@@ -30,9 +30,7 @@ Mix separately:
 + Mix the dry ingredients. Mix the wet ingredients in a separate bowl. Combine thoroughly.
 + Then smash in the bananas. Easiest to wait to do this after mixing the homogeneous ingredients.
 
-Grease a 9x5 loaf pan and bake for 350F for ~75 minutes (or until a toothpick comes out clean). Needs less time if you do it with more sugar.
+Grease a 9x5 loaf pan and bake for 350F for ~75 minutes (or until a toothpick comes out clean). Needs less time if you do it with more sugar. Let cool, then put it in the fridge and do not think about it for at least 12 hours.
 
 + Baking in one 9x5 loaf pan will yield a moist loaf with a square-ish cross-section.
 + If you're a sucker for that caramelized-brown crust, you can split it into two 9x5 loaf pans or one 9x9 pan and bake for less time.
-
-Do not sample until it spends a night in the fridge. Trust me.
