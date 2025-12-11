@@ -3,7 +3,7 @@ sour cream banana bread
 
 ### Manifesto
 
-Optimizes for: light, spongy, fluffy, non-greasy, not too sweet. More like a breakfast bread than a dessert/cake, as traditional banana breads often are. This is a life staple I made up in college to use up old bananas. Great for roadtrips, camping, and breakfast.
+Optimizes for: light, spongy, fluffy, non-greasy, not too sweet. This does not taste at all like a dessert/cake; it's more like if you waved a magic wand and made a banana into a bread texture and less sweet. This is a life staple I made up in college to use up old bananas. Great for roadtrips, camping, and breakfast.
 
 Delayed gratification caveat: requires an overnight in the fridge to set the consistency and moistness. Tastes really dry and bad if you try to eat it straight out of the oven, but it will be perfect the next day.
 
@@ -15,24 +15,24 @@ Dry:
 + 1/2 tsp salt
 
 Wet:
-+ 2 eggs
-+ 3/4 cup brown sugar
++ 2 eggs, beaten
++ 1/4 cup brown sugar
 + 1 tsp vanilla
 + a dash of cinnamon, if you want
-+ 1/3 cup oil (I use canola)
++ 1/3 cup neutral-tasting oil
 + 3/4 cup sour cream
 
 Mix separately:
-+ 3 to 4 squishy bananas
++ 3-4 squishy bananas
 
 ### Methodology
 
 + Mix the dry ingredients. Mix the wet ingredients in a separate bowl. Combine thoroughly.
-+ Then smash in the squishy bananas. Easiest to wait to do this after mixing the homogeneous ingredients.
++ Then smash in the bananas. Easiest to wait to do this after mixing the homogeneous ingredients.
 
-Bake for 350F for 50-60 minutes (or until a toothpick comes out clean).
+Grease your loaf pan(s) and bake for 350F for 60-70 minutes (or until a toothpick comes out clean). Needs less time if you do it with more sugar.
 
-+ If you're a sucker for that caramelized-brown crust, split it into two 9x5 loaf pans or one 9x9 pan.
-+ If you prefer the center to the crust, use one 9x5 loaf pan. This will yield a loaf with a deeper square-ish cross-section.
++ If you want it more moist, use one 9x5 loaf pan. This will yield a loaf with a square-ish cross-section.
++ If you're a sucker for that caramelized-brown crust, you can split it into two 9x5 loaf pans or one 9x9 pan and bake for less time.
 
 Do not sample until it spends a night in the fridge. Trust me.
