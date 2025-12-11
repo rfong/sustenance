@@ -16,7 +16,7 @@ Dry:
 
 Wet:
 + 2 eggs, beaten
-+ 1/4 cup brown sugar
++ 1/4 cup sugar, brown or turbinado
 + 1 tsp vanilla extract
 + a dash of cardamom; also feel free to add cinnamon or similar spices
 + 1/3 cup neutral-tasting oil
