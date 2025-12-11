@@ -17,10 +17,10 @@ Dry:
 Wet:
 + 2 eggs, beaten
 + 1/4 cup brown sugar
-+ 1 tsp vanilla
-+ a dash of cinnamon, if you want
++ 1 tsp vanilla extract
++ a dash of cardamom; also feel free to add cinnamon or similar spices
 + 1/3 cup neutral-tasting oil
-+ 3/4 cup sour cream
++ 3/4 to 1 cup sour cream
 
 Mix separately:
 + 3-4 squishy bananas
