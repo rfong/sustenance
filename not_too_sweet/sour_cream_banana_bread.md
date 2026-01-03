@@ -9,28 +9,31 @@ Delayed gratification caveat: requires an overnight in the fridge to set the con
 
 ### Ingredients
 
+Wet:
++ 2 eggs, beaten
++ 1/4 cup sugar, brown or turbinado
++ 1 tsp vanilla extract
++ a dash of cardamom; also feel free to add cinnamon or similar chai spices
++ 1/4-1/3 cup neutral-tasting oil
++ 1 cup sour cream
+
 Dry:
 + 1-1/2 cups flour
 + 1 tsp baking soda
 + 1/2 tsp salt
 
-Wet:
-+ 2 eggs, beaten
-+ 1/4 cup sugar, brown or turbinado
-+ 1 tsp vanilla extract
-+ a dash of cardamom; also feel free to add cinnamon or similar spices
-+ 1/3 cup neutral-tasting oil
-+ 1 cup sour cream
-
-Mix separately:
-+ 3-4 squishy bananas
+Add after wet+dry combined:
++ 3-4 ripe bananas
 
 ### Methodology
 
-+ Mix the dry ingredients. Mix the wet ingredients in a separate bowl. Combine thoroughly.
-+ Then smash in the bananas. Easiest to wait to do this after mixing the homogeneous ingredients.
++ Beat the eggs first or they will combine badly.
++ Mix the wet and dry ingredients in separate bowls, then combine thoroughly.
++ Smash the bananas in AFTER everything else has been mixed.
++ Grease a 9x5 loaf pan and bake for 350F for ~70 minutes (or until a toothpick comes out clean). If you use more sugar than me, you will need to bake for less time. 
++ Let cool, then put it in the fridge and do not think about it for at least 12 hours. Extra yummy if you warm it up a bit when serving.
 
-Grease a 9x5 loaf pan and bake for 350F for ~75 minutes (or until a toothpick comes out clean). Needs less time if you do it with more sugar. Let cool, then put it in the fridge and do not think about it for at least 12 hours.
+### Notes
 
 + Baking in one 9x5 loaf pan will yield a moist loaf with a square-ish cross-section.
 + If you're a sucker for that caramelized-brown crust, you can split it into two 9x5 loaf pans or one 9x9 pan and bake for less time.
