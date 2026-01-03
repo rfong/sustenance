@@ -30,7 +30,7 @@ Add after wet+dry combined:
 + Beat the eggs first or they will combine badly.
 + Mix the wet and dry ingredients in separate bowls, then combine thoroughly.
 + Smash the bananas in AFTER everything else has been mixed.
-+ Grease a 9x5 loaf pan and bake for 350F for ~70 minutes (or until a toothpick comes out clean). If you use more sugar than me, you will need to bake for less time. 
++ Grease a 9x5 loaf pan and bake at 350F for ~70 minutes (or until a toothpick comes out clean). If you use more sugar than me, you will need to bake for less time. 
 + Let cool, then put it in the fridge and do not think about it for at least 12 hours. Extra yummy if you warm it up a bit when serving.
 
 ### Notes
