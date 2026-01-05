@@ -9,13 +9,15 @@ Delayed gratification caveat: requires an overnight in the fridge to set the con
 
 ### Ingredients
 
+Note: This recipe is optimzied for FIRM ripe bananas. A few brown spots are fine, but if you use the super mushy bananas typically associated with banana bread, the batter will not set properly. I list ranges below for some of the wet ingredients; use more wets if you have firm barely-ripe bananas, and less wets if you have firm bananas with just a few brown spots.
+
 Wet:
 + 2 eggs, beaten
 + 1/8-1/4 cup sugar, brown or turbinado
 + 1 tsp vanilla extract
 + a dash of cardamom; also feel free to add cinnamon or similar chai spices
 + 1/4-1/3 cup neutral-tasting oil
-+ 1 cup sour cream
++ 3/4-1 cup sour cream
 
 Dry:
 + 1-1/2 cups flour
@@ -37,4 +39,3 @@ Add after wet+dry combined:
 
 + Baking in one 9x5 loaf pan will yield a moist loaf with a square-ish cross-section.
 + If you're a sucker for that caramelized-brown crust, you can split it into two 9x5 loaf pans or one 9x9 pan and bake for less time.
-+ This recipe is optimzied for FIRM ripe bananas. A few brown spots are fine, but if you use the super mushy bananas typically associated with banana bread, the batter will not set properly.
