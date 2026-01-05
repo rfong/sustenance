@@ -3,7 +3,7 @@ sour cream banana bread
 
 ### Manifesto
 
-Optimizes for: light, spongy, fluffy, non-greasy, not too sweet. This recipe does not make the banana cake that most people associate with "banana bread", but rather is designed to be more like bread with banana in it. This is a life staple I made up in college to use up old bananas. Great for roadtrips, camping, and breakfast.
+Optimizes for: very moist, spongy, not too sweet, makes a good meal. This recipe does NOT make the hyper-sugary dessert cake that most people associate with "banana bread", but rather is designed to be closer to actual bread with banana in it. This is a life staple I made up in college to use up bananas. Great for roadtrips, camping, and breakfast.
 
 Delayed gratification caveat: requires an overnight in the fridge to set the consistency and moistness. Tastes really dry and bad if you try to eat it straight out of the oven, but it will be perfect the next day.
 
@@ -37,4 +37,4 @@ Add after wet+dry combined:
 
 + Baking in one 9x5 loaf pan will yield a moist loaf with a square-ish cross-section.
 + If you're a sucker for that caramelized-brown crust, you can split it into two 9x5 loaf pans or one 9x9 pan and bake for less time.
-+ This recipe is optimzied for FIRM ripe bananas. A few brown spots are ok, but if you use the super mushy bananas typically associated with banana bread, the batter will not set properly.
++ This recipe is optimzied for FIRM ripe bananas. A few brown spots are fine, but if you use the super mushy bananas typically associated with banana bread, the batter will not set properly.
