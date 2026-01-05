@@ -9,7 +9,7 @@ Delayed gratification caveat: requires an overnight in the fridge to set the con
 
 ### Ingredients
 
-Note: This recipe is optimzied for FIRM ripe bananas. A few brown spots are fine, but if you use the super mushy bananas typically associated with banana bread, the batter will not set properly. I list ranges below for some of the wet ingredients; use more wets if you have firm barely-ripe bananas, and less wets if you have firm bananas with just a few brown spots.
+Note: This recipe is optimized for FIRM ripe bananas. A few brown spots are fine, but if you use the super mushy bananas typically associated with banana bread, the batter will not set properly. I list ranges below for some of the wet ingredients; use more wets if you have firm barely-ripe bananas, and less wets if you have firm bananas with just a few brown spots.
 
 Wet:
 + 2 eggs, beaten
