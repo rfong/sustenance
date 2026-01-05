@@ -11,7 +11,7 @@ Delayed gratification caveat: requires an overnight in the fridge to set the con
 
 Wet:
 + 2 eggs, beaten
-+ 1/4 cup sugar, brown or turbinado
++ 1/8-1/4 cup sugar, brown or turbinado
 + 1 tsp vanilla extract
 + a dash of cardamom; also feel free to add cinnamon or similar chai spices
 + 1/4-1/3 cup neutral-tasting oil
