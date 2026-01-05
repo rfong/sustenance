@@ -3,7 +3,7 @@ sour cream banana bread
 
 ### Manifesto
 
-Optimizes for: very moist, spongy, not too sweet, makes a good meal. This recipe does NOT make the hyper-sugary dessert cake that most people associate with "banana bread", but rather is designed to be closer to actual bread with banana in it. This is a life staple I made up in college to use up bananas. Great for roadtrips, camping, and breakfast.
+Optimizes for: very moist, spongy, not too sweet, makes a good meal. This recipe does NOT make the hyper-sugary dessert cake that most people associate with "banana bread", but rather is designed to be closer to actual bread that happens to have banana in it. This is a life staple I made up in college. Great for roadtrips, camping, and breakfast.
 
 Delayed gratification caveat: requires an overnight in the fridge to set the consistency and moistness. Tastes really dry and bad if you try to eat it straight out of the oven, but it will be perfect the next day.
 
