@@ -25,7 +25,9 @@ Dry:
 + 1/2 tsp salt
 
 Add after wet+dry combined:
-+ 3-4 FIRM ripe bananas, sliced up (I just slice them straight out of the peel with a butter knife)
++ 3-4 FIRM ripe bananas, sliced
+
+To avoid dirtying a cutting board, I like to peel off all but one segment of peel, then hold the banana over the batter bowl and slice it straight in there with a butter knife.
 
 ### Methodology
 
