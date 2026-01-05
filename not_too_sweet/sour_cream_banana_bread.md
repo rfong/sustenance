@@ -25,7 +25,7 @@ Dry:
 + 1/2 tsp salt
 
 Add after wet+dry combined:
-+ 3-4 FIRM ripe bananas
++ 3-4 FIRM ripe bananas, sliced up (I just slice them straight out of the peel with a butter knife)
 
 ### Methodology
 
