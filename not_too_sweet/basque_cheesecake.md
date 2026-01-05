@@ -1,3 +1,5 @@
+IN PROGRESS; trying to find a way to make it less sweet
+
 most recipes suggest broiling the top; I don't do this any more since it usually catches on fire for me
 
 ### Adapted from [Okonomi kitchen](https://www.okonomikitchen.com/basque-cheesecake/)
