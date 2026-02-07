@@ -1,16 +1,20 @@
 # bread
-+ [pain_lancienne.md](pain_lancienne.md) - Delayed fermentation bread, or pain l'ancienne. Instant yeast based. Extremely low-effort bread, no dough babysitting time. Very bready tasting, not sour. 15 min active work (5 min mixing, 2-3 days waiting, 10 min shaping on bake day). Requires dough fridge space for 2-3 days. Crowd pleaser.
-+ [sourdough_ciabatta.md](sourdough_ciabatta.md) - I call my variant "Fool's Ciabatta". A super-high-hydration quick ferment using both sourdough starter and instant yeast. Extremely moist and holey with fantastic rise and a mild yet rich flavor. Soft but browned crust. Only a little more work than pain l'ancienne. 5 min active work, 1-3 hrs of occasional babysitting, then 10 min of baking work. Crowd pleaser. Can be done either same day or overnight.
-+ [sourdough_tartine.md](sourdough_tartine.md) - Tartine-style sourdough. Not too sour, tender and holey crumb but not too holey, crunchy crust, very beautiful when done correctly. Tasty but effortful; requires a solid day of babysitting (about 8 hrs on/off) and then the next morning (~1.5 hrs).
-+ [ny_sourdough_bagels.md](ny_sourdough_bagels.md) - Adaptation of Peter Reinhart's NY-style sourdough bagels to work with less fridge space.
-+ [flatbread.md](flatbread.md) - Quick and simple flatbread mountain party pile for those who crave flatbread. Requires a powerful range hood and good ventilation. I have definitely set off the smoke alarm before. Best with 1-2 helpers.
-+ [seedy_bread.md](seedy_bread.md) - Hearty moist seedy bread with some whole wheat and rye flour! Crowd pleaser. Similar amount of work to ciabatta, longer primary fermentation. Uses a dutch oven.
 
 ## use cases
-- Want to quickly produce a very large volume of inexpensive and delicious calories for a potluck/picnic? Make high-hydration ciabatta, pain l'ancienne, or seedy bread.
-- Want to punish yourself while simultaneously deepening your understanding of bread chemistry and perfecting your mastery over bread variables? Try Tartine-style sourdough.
-- Want to do an interactive bread activity with friends? Try flatbread mountain (quick & super easy), soft pretzels (medium speed & ease), or sourdough bagels (prep required).
+- Want to quickly produce a very large volume of inexpensive & crowd-pleasing calories for a potluck/picnic? Make [high-hydration ciabatta](sourdough_ciabatta.md), [pain l'ancienne](pain_lancienne.md), or [seedy bread](seedy_bread.md).
+- Want to punish yourself while simultaneously deepening your understanding of bread chemistry and perfecting your mastery over bread variables? Try [Tartine-style sourdough](sourdough_tartine.md).
+- Want to do an interactive bread activity with friends? Try [simple flatbread mountain](flatbread.md) (quick & super easy), [soft pretzels](soft_pretzels.md) (medium speed & ease), or [sourdough bagels](ny_sourdough_bagels.md) (prep required).
 - "I don't have time to make bread": I made pain l'ancienne 2-3 times a week while working 90 hrs/week as an MIT undergrad with a $100-120/mo food budget, so I'm pretty confident that anyone with an oven and a fridge can fit this bread into their lifestyle. It really is that low-effort. And it's nice for a student budget that you can get bread flour from restaurant supply stores for $0.40/lb!
+
+## effort notes on my favorite breads, sorted from least to most labor-intensive
++ [flatbread mountain](flatbread.md) - Quick and simple flatbread mountain party pile with no lead time. Requires a powerful range hood and good ventilation. I have definitely set off the smoke alarm many times; try to use a high-smoke-point oil such as avocado oil or ghee. Best with 1-2 helpers. [Naan](naan.md) is more delicious and also very simple to make, but dough needs to be prepped 1-2 hours ahead of time and will get your hands oily.
++ [pain l'ancienne](pain_lancienne.md) - Delayed fermentation bread, or pain l'ancienne. Instant yeast based. Extremely low-effort bread, no dough babysitting time. Very bready tasting, not sour. 15 min active work (5 min mixing, 2-3 days waiting, 10 min shaping on bake day). Requires dough fridge space for 2-3 days. Crowd pleaser.
++ [high-hydration ciabatta](sourdough_ciabatta.md) - I call my variant "Fool's Ciabatta". A super-high-hydration quick ferment using both sourdough starter and instant yeast. Extremely moist and holey with fantastic rise and a mild yet rich flavor, almost eggy-tasting somehow. Soft but browned crust. Only a little more work than pain l'ancienne. 5 min active work, 1-3 hrs of occasional babysitting, then 10 min of baking work. Crowd pleaser. Can be done either same day or overnight.
++ [seedy bread](seedy_bread.md) - Hearty moist seedy bread with some whole wheat and rye flour! Crowd pleaser. Similar amount of work to ciabatta, longer primary fermentation. Uses a dutch oven.
++ [scallion pancakes](scallion_pancakes.md) - There are many ways to make scallion pancakes, but Hannah Che's version is the most delicious by far. Dough requires an overnight fridge rest, and then it's just a lot of very oily rolling and shaping that is better done with the help of friends and aprons.
++ [sourdough bagels](ny_sourdough_bagels.md) - Adaptation of Peter Reinhart's NY-style sourdough bagels to work with less fridge space. Better done with friends.
++ [tartine sourdough](sourdough_tartine.md) - Tartine-style sourdough. Not too sour, tender and holey crumb but not too holey, crunchy crust, very beautiful when done correctly. Tasty but effortful; requires a solid day of babysitting (about 8 hrs on/off) and then the next morning (~1.5 hrs).
+
 
 ## resources
 
@@ -26,19 +30,22 @@
 + bread knife
 + 500F-capable oven
 + baking sheets
-+ large, wide vessel for mixing dough (I either use a wide metal mixing bowl or a clear 8-quart tub, both from the restaurant supply store)
-+ bench scraper
++ big mixing bowl or dough tub. when making sourdough, I like using a clear 8-quart tub from the restaurant supply store, which makes it easy to see how much my dough has risen.
++ bench scraper if handling wetter doughs over 70% hydration
 
-*necessary if you want to Follow A Recipe, but lots of home bakers just wing it*
+*necessary if you want to Follow A Recipe or quantify your recipe for others, but lots of home bakers just wing it by feel*
+
 + kitchen scale with tare function
-
-*useful, but easy to improvise from random kitchen implements*
-
-+ reusable bowl wrap (I have a Bee's Wrap, which isn't remotely airtight, so I tie it down with a piece of paracord)
-+ parchment paper or 500F-resistant silicone sheet liner (can also use cornmeal/semolina, or grease although that has a higher chance of burning the bottom)
-+ Dutch oven (or can use a combo cooker or any other upside-down oven-safe pot to trap steam, or you can just steam the oven)
-+ shaped proofing vessel (can use floursack towels + mixing bowl, or banneton if you want that fancy look)
-+ cooling rack (I did fine without one for the first decade of baking and finally got myself one as a little treat)
++ measuring spoons
 + probe thermometer
 
-I'm used to fudging water temperatures from brewing tea all the time, so I don't use a thermometer. For example, if I want 100-110F water for my yeast, I'll do about 40% boiling water + 60% fridge water, i.e. `(212*0.4) + (50*0.6) ~= 115`, and assume I've lost several degrees by transference into a room temperature container. You can also be less exact and dunk your hand straight into the water. If it feels hot but you can leave your hand in the water without active pain, then it's probably somewhere in the 90-110F range.
+I've brewed tea about 5x/day since 2008, so I am extremely calibrated to water temperature and have a lot of heuristics for hitting within 5F of a target temperature without a thermometer. For example, if I want 100-110F water to bloom instant yeast, I'll combine about 40% boiling water + 60% tap-cold water, i.e. `(212*0.4) + (50*0.6) ~= 115`, and assume I've lost 5-10F by transference into a room temperature container. For yeast, I also always double check by dunking my hand in the water. If it feels hot like a hot tub but I can leave my hand in the water without any pain, then it's in the 100-110F range.
+
+*convenient splurges, but not required*
+
++ reusable bowl wrap (I have a Bee's Wrap, which isn't remotely airtight, so I tie it down with a piece of bungee cord)
++ parchment paper or 500F-resistant silicone sheet liner. can also use cornmeal/semolina, or grease although that has a higher chance of burning the bottom. Silpats are excellent. I finally splurged on a Silpat after 15+ years of breadmaking and am now kicking myself because it would totally have paid off for me in parchment paper savings after 1-2 years.
++ Dutch oven (or can use a combo cooker or any other upside-down oven-safe pot to trap steam. you can also simply put a steam pan full of water in the oven, though the bread doesn't come out quite as well that way)
++ shaped proofing vessel (bannetons are popular for a fancy look, although personally I still use a regular mixing bowl lined with a floursack towel)
++ cooling rack (not necessary but convenient. I did fine without one for the first decade of baking and finally got myself one as a little treat)
++ [proofing box](https://breadtopia.com/store/breadtopia-proofing-box/)!! Collapsible proofing boxes ($40-50) are basically an insulated cozy with a controllable heat pad in the bottom. I finally treated myself to one after 15+ years of baking so that I could make bread when the house is cold, and it's a game changer. Dough simply does not rise in a cold house. I used to wing it by putting my dough under a tub and constantly re-steaming the tub with open containers of freshly boiled water, but this takes a lot of babysitting and is super annoying.
