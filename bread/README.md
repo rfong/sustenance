@@ -43,6 +43,7 @@ I've brewed tea about 5x/day since 2008, so I am extremely calibrated to water t
 
 *convenient splurges, but not required*
 
++ ambient thermometer - doesn't need to be too accurate; I have a cheapo $5 thermometer I put on top of my dough proofing tub to help me know about how fast it might rise.
 + reusable bowl wrap (I have a Bee's Wrap, which isn't remotely airtight, so I tie it down with a piece of bungee cord)
 + parchment paper or 500F-resistant silicone sheet liner. can also use cornmeal/semolina, or grease although that has a higher chance of burning the bottom. Silpats are excellent. I finally splurged on a Silpat after 15+ years of breadmaking and am now kicking myself because it would totally have paid off for me in parchment paper savings after 1-2 years.
 + Dutch oven (or can use a combo cooker or any other upside-down oven-safe pot to trap steam. you can also simply put a steam pan full of water in the oven, though the bread doesn't come out quite as well that way)
