@@ -1,4 +1,4 @@
-# Flatbread
+# Simple flatbread
 
 ## Sources
 King Arthur's ["skillet flatbread"](https://www.kingarthurbaking.com/recipes/skillet-flatbreads-recipe) and 
