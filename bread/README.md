@@ -19,7 +19,7 @@ See also:
 + [flatbread mountain](flatbread.md) - Quick and simple flatbread mountain party pile with no lead time. Requires a powerful range hood and good ventilation. I have definitely set off the smoke alarm many times; try to use a high-smoke-point oil such as avocado oil or ghee. Best with 1-2 friends as an interactive bread activity. [Naan](naan.md) is more delicious and also very simple to make, but dough needs to be prepped 1-2 hours ahead of time and will get your hands oily.
 + [scallion pancakes](scallion_pancakes.md) - There are many ways to make scallion pancakes, but Hannah Che's version is the most delicious by far. Dough requires an overnight fridge rest, and then it's just a lot of very oily rolling and shaping that is better done with the help of friends and aprons.
 + [sourdough bagels](ny_sourdough_bagels.md) - Adaptation of Peter Reinhart's NY-style sourdough bagels to work with less fridge space. Better done with friends.
-+ [tartine sourdough](sourdough_tartine.md) - Tartine-style sourdough. Not too sour, tender and holey crumb but not too holey, crunchy crust, very beautiful when done correctly. Tasty but effortful; requires a solid day of babysitting (about 8 hrs on/off) and then the next morning (~1.5 hrs).
++ [tartine sourdough](sourdough_tartine.md) - Tartine-style sourdough. Not too sour, tender and holey crumb but not too holey, crunchy crust, very beautiful when done correctly. Tasty but effortful; requires a solid day of babysitting (about 8 hrs on/off) and then the next morning (~1.5 hrs). I went very deep down this rabbithole during 2020 and now I mostly don't have time to make this any more.
 
 ## external resources
 
