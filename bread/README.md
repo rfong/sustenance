@@ -30,7 +30,7 @@
 + bread knife
 + 500F-capable oven
 + baking sheets
-+ big mixing bowl or dough tub. when making sourdough, I like using a clear 8-quart tub from the restaurant supply store, which makes it easy to see how much my dough has risen.
++ big mixing bowl or dough tub. when making sourdough, I like using a clear 8-quart tub from the restaurant supply store, which makes it really easy to see how much my dough has risen. I keep a dry erase marker around to mark dough rise and write down times on the tub.
 + bench scraper if handling wetter doughs over 70% hydration
 
 *necessary if you want to Follow A Recipe or quantify your recipe for others, but lots of home bakers just wing it by feel*
@@ -49,4 +49,4 @@ I've brewed tea about 5x/day since 2008, so I am extremely calibrated to water t
 + Dutch oven (or can use a combo cooker or any other upside-down oven-safe pot to trap steam. you can also simply put a steam pan full of water in the oven, though the bread doesn't come out quite as well that way)
 + shaped proofing vessel (bannetons are popular for a fancy look, although personally I still use a regular mixing bowl lined with a floursack towel)
 + cooling rack (not necessary but convenient. I did fine without one for the first decade of baking and finally got myself one as a little treat)
-+ [proofing box](https://breadtopia.com/store/breadtopia-proofing-box/)!! Collapsible proofing boxes ($40-50) are basically an insulated cozy with a controllable heat pad in the bottom. I finally treated myself to one after 15+ years of baking so that I could make bread when the house is cold, and it's a game changer. Dough simply does not rise in a cold house. I used to wing it by putting my dough under a tub and constantly re-steaming the tub with open containers of freshly boiled water, but this takes a lot of babysitting and is super annoying.
++ [proofing box!!!](https://breadtopia.com/store/breadtopia-proofing-box/) Collapsible proofing boxes ($40-50) are basically an insulated cozy with a controllable heat pad in the bottom. I finally treated myself to one after 15+ years of baking so that I could make bread when the house is cold, and it's a game changer. Dough simply does not rise in a cold house. I used to wing it by putting my dough under a tub and constantly re-steaming the tub with open containers of freshly boiled water, but this takes a lot of babysitting and is super annoying.
