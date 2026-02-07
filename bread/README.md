@@ -1,5 +1,7 @@
 # bread
 
+Hello! I am a non-professional home baker who has fed thousands of kilos of low-effort crowd-pleaser bread to hundreds of people since 2008, with a wide variety of constraints on time and kitchen/fridge space. Here are my elaborately spreadsheet-optimized (yet mostly deceptively simple) bread tips!
+
 ## use cases
 - Want to easily produce a very large volume of inexpensive & crowd-pleasing calories for a potluck/picnic? Make [high-hydration ciabatta](sourdough_ciabatta.md) (18 hrs lead time), [seedy bread](seedy_bread.md) (18 hrs lead time), or [pain l'ancienne](pain_lancienne.md) (2-3 days lead time).
 - Want to punish yourself while simultaneously deepening your understanding of bread chemistry and perfecting your mastery over bread variables? Try [Tartine-style sourdough](sourdough_tartine.md).
