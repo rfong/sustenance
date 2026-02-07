@@ -17,6 +17,7 @@ Hello! I am a non-professional home baker who has fed thousands of kilos of low-
 + [sourdough bagels](ny_sourdough_bagels.md) - Adaptation of Peter Reinhart's NY-style sourdough bagels to work with less fridge space. Better done with friends.
 + [tartine sourdough](sourdough_tartine.md) - Tartine-style sourdough. Not too sour, tender and holey crumb but not too holey, crunchy crust, very beautiful when done correctly. Tasty but effortful; requires a solid day of babysitting (about 8 hrs on/off) and then the next morning (~1.5 hrs).
 
+See also my blog post, [The Five Stages Of Bread Effort](https://rhetoricize.medium.com/the-five-stages-of-bread-effort-1190cd8b2d97).
 
 ## resources
 
