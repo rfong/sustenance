@@ -1,7 +1,7 @@
 # bread
 
 ## use cases
-- Want to quickly produce a very large volume of inexpensive & crowd-pleasing calories for a potluck/picnic? Make [high-hydration ciabatta](sourdough_ciabatta.md), [pain l'ancienne](pain_lancienne.md), or [seedy bread](seedy_bread.md).
+- Want to easily produce a very large volume of inexpensive & crowd-pleasing calories for a potluck/picnic? Make [high-hydration ciabatta](sourdough_ciabatta.md) (18 hrs lead time), [seedy bread](seedy_bread.md) (18 hrs lead time), or [pain l'ancienne](pain_lancienne.md) (2-3 days lead time).
 - Want to punish yourself while simultaneously deepening your understanding of bread chemistry and perfecting your mastery over bread variables? Try [Tartine-style sourdough](sourdough_tartine.md).
 - Want to do an interactive bread activity with friends? Try [simple flatbread mountain](flatbread.md) (quick & super easy), [soft pretzels](soft_pretzels.md) (medium speed & ease), or [sourdough bagels](ny_sourdough_bagels.md) (prep required).
 - "I don't have time to make bread": I made pain l'ancienne 2-3 times a week while working 90 hrs/week as an MIT undergrad with a $100-120/mo food budget, so I'm pretty confident that anyone with an oven and a fridge can fit this bread into their lifestyle. It really is that low-effort. And it's nice for a student budget that you can get bread flour from restaurant supply stores for $0.40/lb!
