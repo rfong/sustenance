@@ -41,7 +41,7 @@ Hello! I am a non-professional home baker who has fed thousands of kilos of low-
 + measuring spoons
 + probe thermometer
 
-Tip: 100-110F is usually the only precise water temperature you need to hit for bread baking purposes, to bloom your yeast or feed your starter. I don't use a thermometer for this. To hit this target temperature, I'll combine about 40% boiling water + 60% tap-cold water, i.e. `(212*0.4) + (50*0.6) ~= 115`, and assume I've lost 5-10F by transference into a room temperature container. (Transference loss varies by the amount of water you're using.) I also always double check by dunking my hand in the water. If it feels hot like a hot tub but I can leave my hand in the water without any pain, then it's in the 100-110F range.
+Tip: 100-110F is usually the only really important water temperature you need to hit for bread baking purposes, to bloom your yeast or feed your starter. I don't use a thermometer for this. To hit this target temperature, I'll combine about 40% boiling water + 60% tap-cold water, i.e. `(212*0.4) + (50*0.6) ~= 115`, and assume I've lost 5-10F by transference into a room temperature container. (Transference loss varies by the amount of water you're using.) I also always double check by dunking my hand in the water. If it feels hot like a hot tub but I can leave my hand in the water without any pain, then it's in the 100-110F range.
 
 *convenient splurges, but not required*
 
