@@ -2,6 +2,8 @@
 
 Hello! I am a non-professional home baker who has fed thousands of kilos of low-effort crowd-pleaser bread to hundreds of people since 2008, with a wide variety of constraints on time and kitchen/fridge space. Here are my elaborately spreadsheet-optimized (yet mostly deceptively simple) bread tips!
 
+See also my blog post, [The Five Stages Of Bread Effort](https://rhetoricize.medium.com/the-five-stages-of-bread-effort-1190cd8b2d97).
+
 ## use cases
 - Want to easily produce a very large volume of inexpensive & crowd-pleasing calories for a potluck/picnic? Make [high-hydration ciabatta](sourdough_ciabatta.md) (18 hrs lead time), [seedy bread](seedy_bread.md) (18 hrs lead time), or [pain l'ancienne](pain_lancienne.md) (2-3 days lead time).
 - Want to punish yourself while simultaneously deepening your understanding of bread chemistry and perfecting your mastery over bread variables? Try [Tartine-style sourdough](sourdough_tartine.md).
@@ -16,8 +18,6 @@ Hello! I am a non-professional home baker who has fed thousands of kilos of low-
 + [scallion pancakes](scallion_pancakes.md) - There are many ways to make scallion pancakes, but Hannah Che's version is the most delicious by far. Dough requires an overnight fridge rest, and then it's just a lot of very oily rolling and shaping that is better done with the help of friends and aprons.
 + [sourdough bagels](ny_sourdough_bagels.md) - Adaptation of Peter Reinhart's NY-style sourdough bagels to work with less fridge space. Better done with friends.
 + [tartine sourdough](sourdough_tartine.md) - Tartine-style sourdough. Not too sour, tender and holey crumb but not too holey, crunchy crust, very beautiful when done correctly. Tasty but effortful; requires a solid day of babysitting (about 8 hrs on/off) and then the next morning (~1.5 hrs).
-
-See also my blog post, [The Five Stages Of Bread Effort](https://rhetoricize.medium.com/the-five-stages-of-bread-effort-1190cd8b2d97).
 
 ## resources
 
