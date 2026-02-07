@@ -1,5 +1,7 @@
 # Simple flatbread
 
+(for less-simple flatbreads, see [naan](naan.md) and [scallion pancakes](scallion_pancakes.md))
+
 ## Sources
 King Arthur's ["skillet flatbread"](https://www.kingarthurbaking.com/recipes/skillet-flatbreads-recipe) and 
 ["quick and easy flatbread"](https://www.kingarthurbaking.com/recipes/quick-and-easy-flatbreads-recipe) recipes 
