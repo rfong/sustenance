@@ -21,8 +21,8 @@ rinse grains til water is clear, then soak:
 - 1 cup white sticky rice
 - 1/2 cup purple sticky rice
 - 2 Tbsp adzuki beans
-- 1/3 cup coix seeds (if you can find them)
-- 2 Tbsp fox nuts (if you can find them)
+- 1/3 cup pearl barley / coix seeds
+- 2 Tbsp fox nuts / makhana (if you can find them)
 
 marinate 1/2 lb protein of choice in:
 - 2 Tbsp soy sauce
@@ -32,7 +32,7 @@ marinate 1/2 lb protein of choice in:
 - 1 Tbsp rice cooking wine
 
 ### the day of
-- 1/2-1 cup fresh shiitake mushrooms, chopped finely. if using dried ones, presoak in hot water for 10+ minutes
+- 1/2-1 cup fresh shiitake mushrooms, chopped finely. if using dried ones, presoak in boiling water for 10+ minutes
 - preheat 3+ liters of water and pour it into a big pot. set your 10" bamboo steamer on top. DO NOT USE A WOK because it will not hold enough water for the entire steam ASK ME HOW I FOUND OUT
 - line the steamer with your leaf/leaves
 - drain the grains, add the mushrooms, layer in the protein and drizzle the marinade on top, cover up everything with the leaf/leaves
