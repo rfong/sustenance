@@ -8,7 +8,7 @@
 | quinoa | 1:1.25 | 1 |  |
 | rice, basmati | 1:1 | 4 |  |
 
-The listed time range for dry chickpeas is much lower, but in my experience it takes over 60 minutes to reliably cook them all in a stew context. It might be worth pre-cooking just the chickpeas in your instant pot if you don't want to over-soften all the rest of the food. I prefer pretty minimal-effort cooking, so I don't bother.
+The official Instant Pot time range for dry chickpeas is much lower, but in my experience it really takes 70 minutes to reliably cook them all in a stew context. It might be worth pre-cooking just the chickpeas in your instant pot if you don't want to over-soften all the rest of the food. I prefer pretty minimal-effort cooking, so I don't bother.
 
 ### de/pressurization times
 Values in the grain/legume table are just pressure cook times. Don't forget to factor in time to pressurize and time to naturally depressurize.
