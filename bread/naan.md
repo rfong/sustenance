@@ -1,14 +1,15 @@
-makes 12x 6" naan. fluffy yet crisp! adapted from [recipe tin eats](https://www.recipetineats.com/naan-recipe/)
+fluffy yet crisp! adapted from [recipe tin eats](https://www.recipetineats.com/naan-recipe/)
 
-wet ingredients
-- 2 tsp instant yeast
-- 1 cup warm water (105F/40C)
-- 1 egg, whisked
-- 4 Tbsp (1/4 cup) ghee or butter, melted
-
-dry ingredients
-- 1 tsp salt
-- 3.5 cups bread flour
+|                       | 12x 6" naan | 36x 6" naan |
+| --- | --- | --- |
+| -*wet ingredients*-    | 
+| instant yeast         | 2 tsp    | 2 Tbsp   |
+| warm water (105F/40C) | 1 cup    | 3 cups   |
+| egg, whisked          | 1 egg    | 3 eggs   |
+| melted ghee or butter | 1/4 cup  | 3/4 cup  |
+| -*dry ingredients*- | 
+| salt                  | 1 tsp    | 1 Tbsp    |
+| bread flour           | 3.5 cups | 10.5 cups |
 
 toppings
 - melted ghee/butter with 4 cloves garlic, crushed/microplaned
