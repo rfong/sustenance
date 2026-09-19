@@ -1,6 +1,6 @@
 # bread
 
-Hello! I am a non-professional home baker who has fed thousands of kilos of low-effort crowd-pleaser bread to hundreds of people socially since 2008, with a wide variety of constraints on time and kitchen/fridge space. I mostly make yeasted breads, but I make exceptions for a few simple unyeasted breads such as scallion pancakes. Here are my elaborately spreadsheet-optimized (yet mostly deceptively simple) bread tips!
+Hello! I am a non-professional home baker who has fed thousands of kilos of low-effort crowd-pleaser bread to hundreds of people socially since 2008, with a wide variety of constraints on time and kitchen/fridge space. I mostly make 4-ingredient yeasted breads, but I make exceptions for a few simple unyeasted breads such as scallion pancakes. Here are my elaborately spreadsheet-optimized (yet mostly deceptively simple) bread tips!
 
 See also:
 - my blog post, [The Five Stages Of Bread Effort](https://rhetoricize.medium.com/the-five-stages-of-bread-effort-1190cd8b2d97)
