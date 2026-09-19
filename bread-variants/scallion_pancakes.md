@@ -1,5 +1,7 @@
 # Scallion pancakes
 
+There are many ways to make scallion pancakes, but Hannah Che's version is the most delicious quantified version online. Dough requires an overnight fridge rest, and then it's just a lot of very oily rolling and shaping that is better done with the help of friends and aprons.
+
 ### Heuristics
 
 Chinese style dough denatures the gluten by using hot water. This prevents structure formation and leads to tender dough with little elasticity. By comparison, doughs made with cool or lukewarm water (such as most western breads/pastries) have more gluten formation and elasticity.
