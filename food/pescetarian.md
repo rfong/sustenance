@@ -1,7 +1,7 @@
 # thai coconut poached fish
 adapted from [dishingouthealth](https://dishingouthealth.com/thai-coconut-poached-fish/)
 
-Adjust to your spice preference; I prefer medium spicy by East Asian standards which is very spicy by American standards.
+Adjust to your spice preference; I prefer medium/regular spicy by East Asian standards which is very spicy by American standards.
 
 Spices
 - 2 Tbsp coconut oil
@@ -13,7 +13,7 @@ Spices
 - lemongrass paste to taste, or a few pieces of smashed lemongrass stalk
 
 Other ingredients
-- 13.5oz full-fat coconut milk or cream (Chaokoh or Thai Kitchen brands are decently thick)
+- 1 standard 13.5oz can of full-fat coconut milk or cream (Chaokoh or Thai Kitchen brands are decently thick)
 - 1 lime, juice & zest (or I just use bottled lime juice if I don't have a lime)
 - 2 handfuls baby spinach or other tender greens
 - 1.25lbs white fish fillets, seasoned with kosher salt
