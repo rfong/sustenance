@@ -1,5 +1,7 @@
 fluffy yet crisp! adapted from [recipe tin eats](https://www.recipetineats.com/naan-recipe/)
 
+warning: perhaps because of the butter content of the dough, I have never managed to make these indoors without filling the kitchen with smoke despite using minimal oil, high-heat oil only, max range speed, and max window ventilation. take frying breaks, consider using less fry oil, and plan accordingly.
+
 |                       | 12x 6" naan | 36x 6" naan |
 | --- | --- | --- |
 | -*wet ingredients*-    | 
