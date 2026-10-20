@@ -6,7 +6,7 @@ Really nourishing stew that's good for winter, sickness, or digestive troubles. 
 - 2 cups split lentils (I prefer red)
 - 1 cup basmati rice
 - 1/2 cup mung beans
-- a couple thumb-sized pieces of ginger
+- a couple thumb-sized pieces of ginger (julienned if you plan to eat them, sliced if you plan to pick them out)
 - 1-2 tsp **each** of: fenugreek, cumin, fennel seed, coriander seed
 - you can add any other warming or chai-type spices you like, such as cardamom or garam masala
 - coconut oil for cooking
