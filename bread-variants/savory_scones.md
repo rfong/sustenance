@@ -17,7 +17,7 @@ Adapted from [Rhubarb & Lavender's Shire Scones](https://www.rhubarbandlavender.
 - Combine dry ingredients.
 - Grate or cut up the cold butter into small pieces and combine with the dry ingredients until uniformly crumbly.
 - Mix in the cheese and scallions.
-- Incorporate 1 cup of yogurt. Gradually add more as needed until the dough just comes together.
+- Incorporate 1 cup of yogurt or sour cream. Gradually add more as needed 1 Tbsp at a time until the dough just comes together.
 - Knead on a lightly floured counter, laminate the dough by folding over several times, and pat into a disk 1" thick.
 - Cut into 8 wedges. Spread them out on a baking sheet lined with a Silpat or parchment paper. Brush the tops with cream.
 - Bake 17-20 minutes or until golden brown.
