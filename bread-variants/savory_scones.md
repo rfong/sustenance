@@ -27,4 +27,4 @@ Adapted from [Rhubarb & Lavender's Shire Scones](https://www.rhubarbandlavender.
 - 1st attempt 2026-09-18: followed the base recipe but didn't have cream. I'd prefer a lot more cheese & scallions. could use a little bit more salt. eyeballed the yogurt and the texture ended up slightly too wet and soft on the inside. measure next time and consider flattening the final dough more
 - TBD would like to try with TJs NZ sharp cheddar once I finish up the current bag of shredded generic cheddar.
 - 2nd attempt 2026-10-07: doubled cheese, added a handful of shredded parmesan, tripled scallions, added 1/2 tsp salt, kneaded dough more and folded, swapped in sour cream since I was out of yogurt. too sticky to handle oops, reduce next time
-- next attempt TODO: add yogurt more gradually til the dough just comes together. add 1/2 tsp ground black pepper
+- 3rd attempt 2026-10-22: very good! half parm half cheddar. actually measured the sour cream this time, ended up using 1 cup + 1 Tbsp. baked 20 minutes
