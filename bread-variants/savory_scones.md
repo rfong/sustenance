@@ -1,7 +1,7 @@
 # cheesy scallion scones
 Adapted from [Rhubarb & Lavender's Shire Scones](https://www.rhubarbandlavender.com/cheddar-and-green-onion-scones)
 
-| Ingredient | 8 scones | 16 scones
+| Ingredient | 8 scones | 2x = 16 scones |
 | --- | --- | --- |
 | AP flour | 2-1/2 cups (320g) | 5 cups (640g) |
 | baking powder | 1 Tbsp | 2 Tbsp |
