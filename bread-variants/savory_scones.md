@@ -10,14 +10,14 @@ Adapted from [Rhubarb & Lavender's Shire Scones](https://www.rhubarbandlavender.
 | cold butter | 4 Tbsp | 8 Tbsp |
 | shredded/grated cheese (sharp cheddar and/or parmesan) | 1 cup | 2 cups |
 | scallions, thinly sliced | 6 scallions | 12 scallions |
-| plain yogurt or sour cream | 1 cup plus a few Tbsps as needed | 2 cups plus a few Tbsps as needed |
+| plain yogurt or sour cream | 1 cup plus more Tbsps as needed | 2 cups plus more Tbsps as needed |
 | cream for brushing | 1 Tbsp | 2 Tbsp |
 
 - Preheat oven to 400F.
 - Combine dry ingredients.
 - Grate or cut up the cold butter into small pieces and combine with the dry ingredients until uniformly crumbly.
 - Mix in the shredded cheese and scallions.
-- Incorporate 1 cup of yogurt or sour cream. Gradually add more as needed 1 Tbsp at a time until the dough just comes together.
+- Incorporate the yogurt or sour cream. Gradually add more as needed 1 Tbsp at a time until the dough just comes together. You don't want it to end up too wet.
 - Knead on a lightly floured counter. Laminate the dough by folding over several times if possible.
 - If making the smaller 8-scone batch, shape into a disk 1" thick and cut into 8 wedges. If making the larger batch, halve the dough so you can make the same shapes.
 - Spread the wedges out on a baking sheet lined with a Silpat or parchment paper. Brush the tops with cream.
