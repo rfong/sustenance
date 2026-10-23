@@ -1,25 +1,26 @@
-# cheddar scallion yogurt scones
+# cheesy scallion scones
 Adapted from [Rhubarb & Lavender's Shire Scones](https://www.rhubarbandlavender.com/cheddar-and-green-onion-scones)
 
-| Ingredient | 8 scones |
-| --- | --- |
-| AP flour | 2-1/2 cups (320g) |
-| baking powder | 1 Tbsp |
-| kosher salt | 1-1/2 tsp |
-| black pepper, ground | 1/2 to 1 tsp |
-| cold butter | 4 Tbsp |
-| shredded/chopped cheese (sharp cheddar and/or parmesan) | 1 cup |
-| scallions, thinly sliced | 6 scallions |
-| plain yogurt or sour cream | about 1-1/4 cups |
-| cream for brushing | 1 Tbsp |
+| Ingredient | 8 scones | 16 scones
+| --- | --- | --- |
+| AP flour | 2-1/2 cups (320g) | 5 cups (640g) |
+| baking powder | 1 Tbsp | 2 Tbsp }
+| salt | 1-1/2 tsp | 1 Tbsp |
+| black pepper, ground | 1/2 to 1 tsp | 1 to 2 tsp |
+| cold butter | 4 Tbsp | 8 Tbsp |
+| shredded/grated cheese (sharp cheddar and/or parmesan) | 1 cup | 2 cups |
+| scallions, thinly sliced | 6 scallions | 12 scallions |
+| plain yogurt or sour cream | 1 cup plus a few Tbsps as needed | 2 cups plus a few Tbsps as needed |
+| cream for brushing | 1 Tbsp | 2 Tbsp |
 
 - Preheat oven to 400F.
 - Combine dry ingredients.
 - Grate or cut up the cold butter into small pieces and combine with the dry ingredients until uniformly crumbly.
-- Mix in the cheese and scallions.
+- Mix in the shredded cheese and scallions.
 - Incorporate 1 cup of yogurt or sour cream. Gradually add more as needed 1 Tbsp at a time until the dough just comes together.
-- Knead on a lightly floured counter, laminate the dough by folding over several times, and pat into a disk 1" thick.
-- Cut into 8 wedges. Spread them out on a baking sheet lined with a Silpat or parchment paper. Brush the tops with cream.
+- Knead on a lightly floured counter. Laminate the dough by folding over several times if possible.
+- If making the smaller 8-scone batch, shape into a disk 1" thick and cut into 8 wedges. If making the larger batch, halve the dough so you can make the same shapes.
+- Spread the wedges out on a baking sheet lined with a Silpat or parchment paper. Brush the tops with cream.
 - Bake 17-20 minutes or until golden brown.
 - Serve warm with butter!
 
