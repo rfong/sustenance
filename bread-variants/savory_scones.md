@@ -11,7 +11,7 @@ Adapted from [Rhubarb & Lavender's Shire Scones](https://www.rhubarbandlavender.
 | shredded cheese (sharp cheddar and/or parmesan) | 1 cup | 2 cups |
 | scallions, thinly sliced | 6 scallions | 12 scallions |
 | plain yogurt or sour cream | 1 cup plus more Tbsps as needed | 2 cups plus more Tbsps as needed |
-| cream for brushing | 1 Tbsp | 2 Tbsp |
+| cream for brushing | as needed (~2 Tbsp?) | as needed (~4 Tbsp?) |
 
 - Preheat oven to 400F.
 - Combine dry ingredients.
