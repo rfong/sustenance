@@ -6,7 +6,7 @@ Adapted from [Rhubarb & Lavender's Shire Scones](https://www.rhubarbandlavender.
 | AP flour | 2-1/2 cups (320g) | 5 cups (640g) |
 | baking powder | 1 Tbsp | 2 Tbsp |
 | salt | 1-1/2 tsp | 1 Tbsp |
-| black pepper, ground | 1/2 to 1 tsp | 1 to 2 tsp |
+| black pepper, ground | 1/2 to 1 tsp (to taste) | 1 to 2 tsp (to taste) |
 | cold butter | 4 Tbsp | 8 Tbsp |
 | shredded/grated cheese (sharp cheddar and/or parmesan) | 1 cup | 2 cups |
 | scallions, thinly sliced | 6 scallions | 12 scallions |
