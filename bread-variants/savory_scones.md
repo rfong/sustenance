@@ -24,6 +24,8 @@ Adapted from [Rhubarb & Lavender's Shire Scones](https://www.rhubarbandlavender.
 - Bake 17-20 minutes or until golden brown. (If making the larger batch, you may need longer due to more thermal mass in the oven.)
 - Serve warm with butter!
 
+Store at room temp in a tupperware or bread box. Any you don't eat the same day will be improved by reheating in a toaster oven.
+
 ## Dev log
 (current recipe reflects the most recent version)
 - 1st attempt 2026-09-18: followed the base recipe but didn't have cream. I'd prefer a lot more cheese & scallions. could use a little bit more salt. eyeballed the yogurt and the texture ended up slightly too wet and soft on the inside. measure next time and consider flattening the final dough more
