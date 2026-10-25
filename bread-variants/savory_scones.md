@@ -19,9 +19,9 @@ Adapted from [Rhubarb & Lavender's Shire Scones](https://www.rhubarbandlavender.
 - Mix in the shredded cheese and scallions.
 - Incorporate the yogurt or sour cream. Gradually add more as needed 1 Tbsp at a time until the dough just comes together. You don't want it to end up too wet.
 - Knead on a lightly floured counter. Laminate the dough by folding over several times if possible.
-- If making the smaller 8-scone batch, shape into a disk 1" thick and cut into 8 wedges. If making the larger batch, halve the dough so you can make the same shapes.
+- If making the smaller 8-scone batch, shape into a disk 1" thick and cut into 8 wedges. (If making the larger batch, halve the dough so you can make the same shapes.)
 - Spread the wedges out on a baking sheet lined with a Silpat or parchment paper. Brush the tops with cream.
-- Bake 17-20 minutes or until golden brown.
+- Bake 17-20 minutes or until golden brown. (If making the larger batch, you may need longer due to more thermal mass in the oven.)
 - Serve warm with butter!
 
 ## Dev log
