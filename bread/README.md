@@ -1,6 +1,6 @@
 # yeasted breads (mostly flour, salt, water, yeast)
 
-Hello! I am a non-professional home baker who has fed thousands of kilos of low-effort crowd-pleaser bread to hundreds of people socially since 2008, with a wide variety of constraints on time and kitchen/fridge space. I mostly make 4-ingredient yeasted breads. Sourdough bagels and seedy yeasted breads get a pass on account of having simple additives that don't change the methodology much. Major textural variants such as cheesy breads, yogurt breads, scallion pancakes, etc live in the [bread-variants](../bread-variants) folder. Below are my elaborately spreadsheet-optimized (yet mostly deceptively simple) yeasted bread tips!
+Hello! I am a non-professional home baker who has fed thousands of kilos of low-effort crowd-pleaser bread to hundreds of people socially since 2008, with a wide variety of constraints on time and kitchen/fridge space. I mostly make 4-ingredient yeasted breads. Sourdough bagels and seedy yeasted breads get a pass on account of having simple additives that don't change the methodology much. Non-yeasted breads such as cheesy breads, yogurt breads, scallion pancakes, etc live in the [bread-variants](../bread-variants) folder. Below are my elaborately spreadsheet-optimized (yet mostly deceptively simple) yeasted bread tips!
 
 See also:
 - my blog post, [The Five Stages Of Bread Effort](https://rhetoricize.medium.com/the-five-stages-of-bread-effort-1190cd8b2d97)
