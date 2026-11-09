@@ -35,8 +35,9 @@ Note: The dough will triple in size during initial stretch-n-folds. You will nee
 
 ### Dough development
 
-Dissolve the starter and yeast in the water. Sift the salt into the flour. Combine.
-Stir until the dough comes together and some gluten strands develop.
+Dissolve the starter and yeast in the water. If you have an extra 15 minutes, let it sit until bubbly. If not, don't worry about it, this is Fool's Ciabatta.
+
+Sift the salt into the flour. Combine into the wet ingredients. Stir until the dough comes together and some gluten strands develop.
 
 Get a bowl of water to dip your hands in. You will need continuously wet hands and a wet bench scraper to get anywhere near this dough without turning your hands into sticky dough balls. I dip my hands between each time I touch the dough.
 
